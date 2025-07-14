@@ -2004,6 +2004,12 @@
     },
     "done": true
   },
+  "haema:kill_vampire_hunter": {
+    "criteria": {
+      "killhunter": "2025-07-14 17:44:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2025-07-14 16:26:28 +0000"
