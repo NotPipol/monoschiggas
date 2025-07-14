@@ -1517,21 +1517,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks": {
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
     "criteria": {
-      "has_stone": "2025-07-14 15:40:12 +0000"
+      "has_stripped_logs": "2025-07-14 15:17:39 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
-      "has_stone_types_deepslate": "2025-07-14 15:45:25 +0000"
+      "has_log": "2025-07-14 15:17:39 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/dark_oak_window": {
+  "vinery:recipes/grass_slab": {
     "criteria": {
-      "has_ingredient": "2025-07-14 15:44:13 +0000"
+      "has_grass_block": "2025-07-14 15:20:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-07-14 15:24:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-14 15:24:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-14 15:25:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-14 15:25:02 +0000"
     },
     "done": true
   },
@@ -1547,99 +1571,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-07-14 15:40:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab": {
-    "criteria": {
-      "has_stone": "2025-07-14 15:40:12 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_deepslate_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-07-14 15:45:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-07-14 15:40:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-07-14 15:25:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_button": {
-    "criteria": {
-      "has_stone": "2025-07-14 15:40:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_pressure_plate": {
-    "criteria": {
-      "has_stone": "2025-07-14 15:40:12 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/deepslate_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-07-14 15:45:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-07-14 15:17:39 +0000"
-    },
-    "done": true
-  },
-  "storagedelight:recipes/decorations/glass_spruce_cabinet": {
-    "criteria": {
-      "has_spruce_trapdoor": "2025-07-14 15:34:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_stairs": {
-    "criteria": {
-      "has_planks": "2025-07-14 15:44:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-07-14 15:40:11 +0000"
-    },
-    "done": true
-  },
   "storagedelight:recipes/decorations/dark_oak_single_door_cabinet": {
     "criteria": {
       "has_dark_oak_trapdoor": "2025-07-14 15:33:10 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-07-14 15:45:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
-    "criteria": {
-      "has_log": "2025-07-14 15:17:39 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/deepslate_pillar_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-07-14 15:45:25 +0000"
     },
     "done": true
   },
@@ -1649,147 +1583,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dark_oak_door": {
-    "criteria": {
-      "has_planks": "2025-07-14 15:44:13 +0000"
-    },
-    "done": true
-  },
-  "genshinstrument:recipes/vintage_lyre": {
-    "criteria": {
-      "has_main": "2025-07-14 15:44:13 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-07-14 15:45:25 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/spruce_cabinet": {
-    "criteria": {
-      "has_spruce_trapdoor": "2025-07-14 15:34:02 +0000"
-    },
-    "done": true
-  },
   "storagedelight:recipes/decorations/dark_oak_drawer_with_books": {
     "criteria": {
       "has_dark_oak_trapdoor": "2025-07-14 15:33:10 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-07-14 15:45:25 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-07-14 15:45:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab": {
-    "criteria": {
-      "has_polished_andesite": "2025-07-14 15:40:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-07-14 15:25:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2025-07-14 15:38:26 +0000"
-    },
-    "done": true
-  },
-  "storagedelight:recipes/decorations/spruce_drawer": {
-    "criteria": {
-      "has_spruce_trapdoor": "2025-07-14 15:34:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_oak_sign": {
-    "criteria": {
-      "has_planks": "2025-07-14 15:44:13 +0000"
-    },
-    "done": true
-  },
-  "cratedelight:recipes/building_blocks/gunpowder_bag": {
-    "criteria": {
-      "has_gunpowder": "2025-07-14 15:38:26 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/grass_slab": {
-    "criteria": {
-      "has_grass_block": "2025-07-14 15:20:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs": {
-    "criteria": {
-      "has_stone": "2025-07-14 15:40:12 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/dark_oak_wine_rack_big": {
-    "criteria": {
-      "has_dark_oak_planks": "2025-07-14 15:44:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-07-14 15:44:13 +0000"
-    },
-    "done": true
-  },
-  "storagedelight:recipes/decorations/spruce_drawer_with_door": {
-    "criteria": {
-      "has_spruce_trapdoor": "2025-07-14 15:34:02 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/decorations/stone_witch_altar": {
-    "criteria": {
-      "has_item": "2025-07-14 15:40:12 +0000"
-    },
-    "done": true
-  },
-  "storagedelight:recipes/decorations/spruce_single_door_cabinet": {
-    "criteria": {
-      "has_spruce_trapdoor": "2025-07-14 15:34:02 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-07-14 15:45:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-07-14 15:44:13 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-07-14 15:45:25 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/dark_oak_wine_rack_small": {
-    "criteria": {
-      "has_dark_oak_planks": "2025-07-14 15:44:13 +0000"
     },
     "done": true
   },
@@ -1805,27 +1601,51 @@
     },
     "done": true
   },
-  "storagedelight:recipes/decorations/spruce_cabinet_with_glass_doors": {
+  "storagedelight:recipes/decorations/dark_oak_drawer": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-07-14 15:33:10 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/dark_oak_drawer_with_door": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-07-14 15:33:10 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/glass_spruce_cabinet": {
     "criteria": {
       "has_spruce_trapdoor": "2025-07-14 15:34:02 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
     "criteria": {
-      "has_stone_types_deepslate": "2025-07-14 15:45:25 +0000"
+      "has_spruce_trapdoor": "2025-07-14 15:34:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/composter": {
+  "storagedelight:recipes/decorations/spruce_drawer": {
     "criteria": {
-      "has_wood_slab": "2025-07-14 15:44:10 +0000"
+      "has_spruce_trapdoor": "2025-07-14 15:34:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dark_oak_button": {
+  "storagedelight:recipes/decorations/spruce_drawer_with_door": {
     "criteria": {
-      "has_planks": "2025-07-14 15:44:13 +0000"
+      "has_spruce_trapdoor": "2025-07-14 15:34:02 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/spruce_single_door_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-07-14 15:34:02 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/spruce_cabinet_with_glass_doors": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-07-14 15:34:02 +0000"
     },
     "done": true
   },
@@ -1835,9 +1655,105 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
+  "storagedelight:recipes/decorations/small_spruce_drawers": {
     "criteria": {
-      "has_stone_types_deepslate": "2025-07-14 15:45:25 +0000"
+      "has_spruce_trapdoor": "2025-07-14 15:34:02 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/spruce_bookshelf_with_door": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-07-14 15:34:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-07-14 15:38:26 +0000"
+    },
+    "done": true
+  },
+  "cratedelight:recipes/building_blocks/gunpowder_bag": {
+    "criteria": {
+      "has_gunpowder": "2025-07-14 15:38:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-07-14 15:38:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-14 15:40:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-14 15:40:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-14 15:40:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-14 15:40:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-07-14 15:40:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-14 15:40:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-07-14 15:40:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-14 15:40:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-07-14 15:40:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-07-14 15:40:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-07-14 15:40:12 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/stone_witch_altar": {
+    "criteria": {
+      "has_item": "2025-07-14 15:40:12 +0000"
     },
     "done": true
   },
@@ -1853,15 +1769,105 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-14 15:40:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-14 15:40:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-14 15:40:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-14 15:40:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-14 15:40:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-07-14 15:44:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-07-14 15:44:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-07-14 15:44:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+  "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
-      "has_stone": "2025-07-14 15:40:12 +0000"
+      "has_planks": "2025-07-14 15:44:13 +0000"
+    },
+    "done": true
+  },
+  "genshinstrument:recipes/vintage_lyre": {
+    "criteria": {
+      "has_main": "2025-07-14 15:44:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-07-14 15:44:13 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_oak_wine_rack_big": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-07-14 15:44:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-14 15:44:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-14 15:44:13 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_oak_wine_rack_small": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-07-14 15:44:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-07-14 15:44:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-14 15:44:13 +0000"
     },
     "done": true
   },
@@ -1877,15 +1883,75 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+  "create:recipes/building_blocks/cut_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
     "criteria": {
-      "has_stone": "2025-07-14 15:40:12 +0000"
+      "has_stone_types_deepslate": "2025-07-14 15:45:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
+  "create:recipes/building_blocks/cut_deepslate_from_stone_types_deepslate_stonecutting": {
     "criteria": {
-      "has_log": "2025-07-14 15:24:59 +0000"
+      "has_stone_types_deepslate": "2025-07-14 15:45:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-07-14 15:45:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-07-14 15:45:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/deepslate_pillar_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-07-14 15:45:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-07-14 15:45:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-07-14 15:45:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-07-14 15:45:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-07-14 15:45:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-07-14 15:45:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-07-14 15:45:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-07-14 15:45:25 +0000"
     },
     "done": true
   },
@@ -1895,57 +1961,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-07-14 15:40:12 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-07-14 15:45:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
-    "criteria": {
-      "has_polished_andesite": "2025-07-14 15:40:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-07-14 15:40:12 +0000"
-    },
-    "done": true
-  },
-  "storagedelight:recipes/decorations/dark_oak_drawer": {
-    "criteria": {
-      "has_dark_oak_trapdoor": "2025-07-14 15:33:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-07-14 15:24:59 +0000"
-    },
-    "done": true
-  },
-  "storagedelight:recipes/decorations/small_spruce_drawers": {
-    "criteria": {
-      "has_spruce_trapdoor": "2025-07-14 15:34:02 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-07-14 15:45:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-07-14 15:40:12 +0000"
     },
     "done": true
   },
@@ -1961,39 +1985,21 @@
     },
     "done": true
   },
-  "storagedelight:recipes/decorations/spruce_bookshelf_with_door": {
-    "criteria": {
-      "has_spruce_trapdoor": "2025-07-14 15:34:02 +0000"
-    },
-    "done": true
-  },
-  "storagedelight:recipes/decorations/dark_oak_drawer_with_door": {
-    "criteria": {
-      "has_dark_oak_trapdoor": "2025-07-14 15:33:10 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-07-14 15:45:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-07-14 15:40:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tnt": {
-    "criteria": {
-      "has_gunpowder": "2025-07-14 15:38:26 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/layered_deepslate_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-07-14 15:45:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/glass_pane_from_framed_glass_pane": {
+    "criteria": {
+      "has_item": "2025-07-14 15:56:53 +0000"
     },
     "done": true
   },
