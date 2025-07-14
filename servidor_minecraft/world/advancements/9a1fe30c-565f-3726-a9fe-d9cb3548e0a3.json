@@ -4645,12 +4645,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-07-14 17:25:26 +0000"
-    },
-    "done": false
-  },
   "bewitchment:recipes/decorations/birch_poppet_shelf": {
     "criteria": {
       "has_item": "2025-07-14 17:14:12 +0000"
