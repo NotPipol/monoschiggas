@@ -3118,7 +3118,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-07-14 20:40:35 +0000"
+      "requirement": "2025-07-14 20:50:35 +0000"
     },
     "done": false
   },
@@ -3137,6 +3137,12 @@
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2025-07-14 19:51:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-07-14 20:43:58 +0000"
     },
     "done": true
   },
@@ -3200,6 +3206,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-07-14 20:43:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2025-07-14 20:23:26 +0000"
@@ -3227,6 +3239,12 @@
   "lockandblock:recipes/combat/detonator_mine": {
     "criteria": {
       "has_item": "2025-07-14 20:10:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-07-14 20:40:52 +0000"
     },
     "done": true
   },
@@ -3269,6 +3287,12 @@
   "farmersdelight:recipes/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2025-07-14 19:51:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-07-14 20:43:58 +0000"
     },
     "done": true
   },
@@ -3317,6 +3341,12 @@
   "lockandblock:recipes/combat/land_mine": {
     "criteria": {
       "has_item": "2025-07-14 20:10:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-07-14 20:40:52 +0000"
     },
     "done": true
   },
