@@ -76,6 +76,7 @@
       "minecraft:forest": "2025-07-14 05:51:25 +0000",
       "minecraft:lush_caves": "2025-07-14 04:42:01 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-14 04:11:00 +0000",
+      "minecraft:meadow": "2025-07-14 19:44:38 +0000",
       "minecraft:plains": "2025-07-14 04:26:54 +0000"
     },
     "done": false
@@ -2925,6 +2926,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-07-14 19:40:00 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/wild_harvest": {
+    "criteria": {
+      "red_taiga_grape_seeds": "2025-07-14 19:50:27 +0000"
     },
     "done": true
   },

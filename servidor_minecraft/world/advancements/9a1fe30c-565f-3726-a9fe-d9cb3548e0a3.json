@@ -4804,7 +4804,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-07-14 19:40:35 +0000"
+      "requirement": "2025-07-14 19:50:35 +0000"
     },
     "done": false
   },
@@ -4853,6 +4853,12 @@
   "promenade:recipes/crafting/asphalt/stairs": {
     "criteria": {
       "has_asphalt": "2025-07-14 18:58:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-07-14 19:49:34 +0000"
     },
     "done": true
   },
@@ -4946,9 +4952,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-07-14 19:49:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-07-14 18:49:51 +0000"
+    },
+    "done": true
+  },
+  "cratedelight:recipes/building_blocks/gunpowder_bag": {
+    "criteria": {
+      "has_gunpowder": "2025-07-14 19:49:04 +0000"
     },
     "done": true
   },
@@ -5063,6 +5081,12 @@
   "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2025-07-14 19:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-07-14 19:49:04 +0000"
     },
     "done": true
   },

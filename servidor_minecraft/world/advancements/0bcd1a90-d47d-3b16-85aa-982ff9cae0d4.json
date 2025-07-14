@@ -276,6 +276,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-07-14 03:29:27 +0000",
+      "minecraft:ghast": "2025-07-14 19:45:59 +0000",
       "minecraft:spider": "2025-07-14 17:11:59 +0000",
       "minecraft:creeper": "2025-07-14 15:14:33 +0000",
       "minecraft:zombie": "2025-07-14 02:51:07 +0000"
@@ -2780,6 +2781,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-07-14 19:43:37 +0000",
       "minecraft:nether_wastes": "2025-07-14 18:12:29 +0000"
     },
     "done": false
@@ -2868,6 +2870,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/misc/black_dye_from_snake_tongue": {
+    "criteria": {
+      "has_item": "2025-07-14 19:42:48 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/misc/silver_nugget_from_blasting": {
     "criteria": {
       "has_item": "2025-07-14 18:40:07 +0000"
@@ -2896,6 +2904,12 @@
   "bewitchment:hidden_unlocks/athame": {
     "criteria": {
       "has_item": "2025-07-14 18:40:07 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:hidden_unlocks/demon_horn": {
+    "criteria": {
+      "has_item": "2025-07-14 19:42:48 +0000"
     },
     "done": true
   },
@@ -2991,6 +3005,7 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
+      "incendium:quartz_flats": "2025-07-14 19:44:13 +0000",
       "incendium:volcanic_deltas": "2025-07-14 19:33:51 +0000",
       "incendium:toxic_heap": "2025-07-14 19:33:50 +0000"
     },
@@ -3018,6 +3033,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-07-14 18:18:03 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/misc/blaze_powder_from_demon_horn": {
+    "criteria": {
+      "has_item": "2025-07-14 19:42:48 +0000"
     },
     "done": true
   },
@@ -3234,6 +3255,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2025-07-14 18:10:42 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2025-07-14 19:44:13 +0000"
     },
     "done": true
   },

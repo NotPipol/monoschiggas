@@ -3115,11 +3115,11 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
-      "requirement": "2025-07-14 19:40:35 +0000"
+      "has_flint": "2025-07-14 19:44:04 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
@@ -3127,9 +3127,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-07-14 19:46:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-07-14 19:46:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-07-14 19:32:00 +0000"
+    },
+    "done": true
+  },
+  "haema:use_ritual_table": {
+    "criteria": {
+      "useritual": "2025-07-14 19:50:13 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/building_blocks/salt_block": {
+    "criteria": {
+      "has_item": "2025-07-14 19:43:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-07-14 19:44:04 +0000"
     },
     "done": true
   },
