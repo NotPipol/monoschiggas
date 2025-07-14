@@ -1,6 +1,6 @@
 {
   "changeCape": true,
-  "changeName": true,
+  "changeName": false,
   "baseCommandOPLevel": 2,
   "selfCommandOPLevel": 0
 }
