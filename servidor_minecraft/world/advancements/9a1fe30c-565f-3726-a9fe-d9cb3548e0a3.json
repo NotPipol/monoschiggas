@@ -812,7 +812,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "sweet_berries": "2025-07-14 02:47:38 +0000"
+      "sweet_berries": "2025-07-14 02:47:38 +0000",
+      "sugar_cane": "2025-07-14 21:38:54 +0000"
     },
     "done": false
   },
@@ -5117,7 +5118,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-07-14 21:30:35 +0000"
+      "requirement": "2025-07-14 21:40:35 +0000"
     },
     "done": false
   },
