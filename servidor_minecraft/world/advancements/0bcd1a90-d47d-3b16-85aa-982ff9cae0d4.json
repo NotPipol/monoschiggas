@@ -2961,6 +2961,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-07-14 20:20:35 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-07-14 18:10:42 +0000"
@@ -3345,6 +3351,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab": {
     "criteria": {
       "has_deepslate_bricks": "2025-07-14 18:18:03 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-07-14 20:11:39 +0000"
     },
     "done": true
   },
