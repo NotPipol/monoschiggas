@@ -1997,11 +1997,47 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-07-14 16:02:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-14 16:05:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-14 16:05:32 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_piles/spruce_leaf": {
+    "criteria": {
+      "has_leaves": "2025-07-14 16:07:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/smelting/glass_pane_from_framed_glass_pane": {
     "criteria": {
       "has_item": "2025-07-14 15:56:53 +0000"
     },
     "done": true
+  },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-07-14 16:02:33 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_snowy_leaves/spruce": {
+    "criteria": {
+      "has_leaves": "2025-07-14 16:07:51 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
