@@ -1517,6 +1517,18 @@
     },
     "done": true
   },
+  "storagedelight:recipes/decorations/glass_dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-07-14 15:33:10 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/dark_oak_bookshelf_with_door": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-07-14 15:33:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
     "criteria": {
       "has_log": "2025-07-14 15:25:02 +0000"
@@ -1529,9 +1541,39 @@
     },
     "done": true
   },
+  "storagedelight:recipes/decorations/glass_spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-07-14 15:34:02 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/dark_oak_single_door_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-07-14 15:33:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2025-07-14 15:17:39 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/dark_oak_cabinet_with_glass_doors": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-07-14 15:33:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-07-14 15:34:02 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/dark_oak_drawer_with_books": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-07-14 15:33:10 +0000"
     },
     "done": true
   },
@@ -1541,9 +1583,51 @@
     },
     "done": true
   },
+  "storagedelight:recipes/decorations/spruce_drawer": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-07-14 15:34:02 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/grass_slab": {
     "criteria": {
       "has_grass_block": "2025-07-14 15:20:07 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/spruce_drawer_with_door": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-07-14 15:34:02 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/spruce_single_door_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-07-14 15:34:02 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/small_dark_oak_drawers": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-07-14 15:33:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-07-14 15:33:10 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/spruce_cabinet_with_glass_doors": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-07-14 15:34:02 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/spruce_drawer_with_books": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-07-14 15:34:02 +0000"
     },
     "done": true
   },
@@ -1553,9 +1637,33 @@
     },
     "done": true
   },
+  "storagedelight:recipes/decorations/dark_oak_drawer": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-07-14 15:33:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-07-14 15:24:59 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/small_spruce_drawers": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-07-14 15:34:02 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/spruce_bookshelf_with_door": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-07-14 15:34:02 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/dark_oak_drawer_with_door": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-07-14 15:33:10 +0000"
     },
     "done": true
   },
