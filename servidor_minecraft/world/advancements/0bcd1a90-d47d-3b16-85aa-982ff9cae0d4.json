@@ -2730,6 +2730,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-07-14 19:16:01 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/birch_poppet_shelf": {
     "criteria": {
       "has_item": "2025-07-14 19:00:55 +0000"
@@ -2826,9 +2832,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-07-14 19:17:44 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/spruce_poppet_shelf": {
     "criteria": {
       "has_item": "2025-07-14 19:00:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-07-14 19:17:44 +0000"
     },
     "done": true
   },
@@ -2856,6 +2874,19 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2025-07-14 19:25:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:tabby": "2025-07-14 19:18:00 +0000",
+      "minecraft:ragdoll": "2025-07-14 19:16:04 +0000"
+    },
+    "done": false
+  },
   "bewitchment:recipes/decorations/crimson_poppet_shelf": {
     "criteria": {
       "has_item": "2025-07-14 19:00:55 +0000"
@@ -2865,6 +2896,12 @@
   "bewitchment:hidden_unlocks/athame": {
     "criteria": {
       "has_item": "2025-07-14 18:40:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-07-14 19:16:04 +0000"
     },
     "done": true
   },
@@ -2880,6 +2917,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-07-14 19:16:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-07-14 18:10:42 +0000"
@@ -2889,6 +2932,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-07-14 18:23:58 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/taglock": {
+    "criteria": {
+      "has_item": "2025-07-14 19:18:33 +0000"
     },
     "done": true
   },
@@ -2959,6 +3008,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-14 19:16:01 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/juniper_poppet_shelf": {
     "criteria": {
       "has_item": "2025-07-14 19:00:55 +0000"
@@ -2977,9 +3032,21 @@
     },
     "done": true
   },
+  "vinery:recipes/wine_bottle": {
+    "criteria": {
+      "has_glass_bottle": "2025-07-14 19:18:33 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/tools/fiery_chalk": {
     "criteria": {
       "has_item": "2025-07-14 18:45:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-07-14 19:17:44 +0000"
     },
     "done": true
   },
@@ -2992,6 +3059,18 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-07-14 18:12:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-14 19:25:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-07-14 19:16:01 +0000"
     },
     "done": true
   },
@@ -3016,6 +3095,12 @@
   "bewitchment:recipes/food/grilled_garlic": {
     "criteria": {
       "has_item": "2025-07-14 18:54:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-07-14 19:17:44 +0000"
     },
     "done": true
   },
@@ -3055,6 +3140,12 @@
     },
     "done": true
   },
+  "cratedelight:recipes/building_blocks/salmon_crate": {
+    "criteria": {
+      "has_salmon": "2025-07-14 19:16:01 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/misc/silver_nugget": {
     "criteria": {
       "has_item": "2025-07-14 18:40:00 +0000"
@@ -3091,9 +3182,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-07-14 19:16:01 +0000"
+    },
+    "done": true
+  },
   "bewitchment:hidden_unlocks/taglock": {
     "criteria": {
       "has_item": "2025-07-14 18:52:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-07-14 19:25:04 +0000"
     },
     "done": true
   },
@@ -3148,6 +3251,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-07-14 18:18:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-07-14 19:17:44 +0000"
     },
     "done": true
   },
@@ -3214,6 +3323,12 @@
   "haema:create_ritual_table": {
     "criteria": {
       "gettable": "2025-07-14 18:17:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-07-14 19:17:44 +0000"
     },
     "done": true
   },

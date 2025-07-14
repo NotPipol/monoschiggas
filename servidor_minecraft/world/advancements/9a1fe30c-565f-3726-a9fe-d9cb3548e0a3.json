@@ -4802,9 +4802,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-07-14 19:29:12 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/stonecutting/asphalt/wall": {
     "criteria": {
       "has_asphalt": "2025-07-14 18:58:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-14 19:29:11 +0000"
     },
     "done": true
   },
@@ -4820,15 +4832,39 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-14 19:29:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-07-14 19:29:11 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/crafting/asphalt/stairs": {
     "criteria": {
       "has_asphalt": "2025-07-14 18:58:14 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-07-14 19:29:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-07-14 19:02:34 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/blue_dye_from_blueberries": {
+    "criteria": {
+      "has_blueberry": "2025-07-14 19:29:10 +0000"
     },
     "done": true
   },
@@ -4880,6 +4916,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-07-14 19:29:12 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/crafting/vanilla_piles/poppy": {
     "criteria": {
       "has_flower": "2025-07-14 19:02:34 +0000"
@@ -4910,9 +4952,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-07-14 19:29:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-07-14 18:49:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-07-14 19:29:11 +0000"
     },
     "done": true
   },
@@ -4991,6 +5045,12 @@
   "create:water_supply": {
     "criteria": {
       "0": "2025-07-14 18:20:37 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/cooking/creamy_pasta_with_chicken_cuts": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-14 19:29:12 +0000"
     },
     "done": true
   },

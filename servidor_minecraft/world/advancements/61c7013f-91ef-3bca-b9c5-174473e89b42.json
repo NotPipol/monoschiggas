@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-07-14 19:29:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-07-14 19:08:49 +0000"
@@ -86,6 +92,12 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2025-07-14 19:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-07-14 19:29:10 +0000"
     },
     "done": true
   },
@@ -143,6 +155,12 @@
     },
     "done": true
   },
+  "vinery:main/fruits_of_the_field": {
+    "criteria": {
+      "fruits_of_the_field": "2025-07-14 19:17:58 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/birch_cog": {
     "criteria": {
       "in_water": "2025-07-14 19:10:46 +0000"
@@ -167,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-07-14 19:29:10 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/misc/sail": {
     "criteria": {
       "in_water": "2025-07-14 19:10:46 +0000"
@@ -179,9 +203,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-14 19:29:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-07-14 19:28:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-07-14 19:29:10 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/acacia_galley": {
     "criteria": {
       "in_water": "2025-07-14 19:10:46 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/wild_harvest": {
+    "criteria": {
+      "white_grape_seeds": "2025-07-14 19:22:41 +0000"
     },
     "done": true
   },
@@ -197,9 +245,27 @@
     },
     "done": true
   },
+  "haema:drink_player_blood": {
+    "criteria": {
+      "drinkfromplayer": "2025-07-14 19:26:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-07-14 19:28:50 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:root": {
     "criteria": {
       "always": "2025-07-14 19:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-07-14 19:29:10 +0000"
     },
     "done": true
   },
@@ -227,9 +293,21 @@
     },
     "done": true
   },
+  "haema:use_blood": {
+    "criteria": {
+      "becomevampire": "2025-07-14 19:21:30 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/spruce_drakkar": {
     "criteria": {
       "in_water": "2025-07-14 19:10:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-14 19:28:50 +0000"
     },
     "done": true
   },
@@ -257,9 +335,21 @@
     },
     "done": true
   },
+  "vinery:recipes/stackable_log": {
+    "criteria": {
+      "has_oak_log": "2025-07-14 19:28:50 +0000"
+    },
+    "done": true
+  },
   "delightfulcreators:root": {
     "criteria": {
       "0": "2025-07-14 19:09:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-14 19:29:10 +0000"
     },
     "done": true
   },
@@ -281,15 +371,45 @@
     },
     "done": true
   },
+  "haema:drink_good_blood": {
+    "criteria": {
+      "drinkgoodblood": "2025-07-14 19:26:46 +0000"
+    },
+    "done": true
+  },
+  "genshinstrument:recipes/windsong_lyre": {
+    "criteria": {
+      "has_main": "2025-07-14 19:29:10 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2025-07-14 19:13:59 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-14 19:29:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-07-14 19:29:10 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/oak_cog": {
     "criteria": {
       "in_water": "2025-07-14 19:10:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/earplugs": {
+    "criteria": {
+      "has_item": "2025-07-14 19:29:10 +0000"
     },
     "done": true
   },
@@ -305,6 +425,12 @@
     },
     "done": true
   },
+  "vinery:recipes/white_grape_bag": {
+    "criteria": {
+      "has_white_grape": "2025-07-14 19:22:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-07-14 19:10:46 +0000"
@@ -314,6 +440,12 @@
   "smallships:recipes/transportation/acacia_brigg": {
     "criteria": {
       "in_water": "2025-07-14 19:10:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-07-14 19:22:48 +0000"
     },
     "done": true
   },
@@ -332,6 +464,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-07-14 19:10:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-07-14 19:29:10 +0000"
     },
     "done": true
   },
@@ -371,6 +509,12 @@
     },
     "done": false
   },
+  "vinery:recipes/grapevine_stem": {
+    "criteria": {
+      "has_oak_log": "2025-07-14 19:28:50 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/cherry_drakkar": {
     "criteria": {
       "in_water": "2025-07-14 19:10:46 +0000"
@@ -398,6 +542,12 @@
   "promenade:recipes/crafting/palm/boat": {
     "criteria": {
       "in_water": "2025-07-14 19:10:46 +0000"
+    },
+    "done": true
+  },
+  "haema:drink_blood": {
+    "criteria": {
+      "drinkblood": "2025-07-14 19:26:46 +0000"
     },
     "done": true
   },
@@ -431,9 +581,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-14 19:29:10 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/cherry_galley": {
     "criteria": {
       "in_water": "2025-07-14 19:10:46 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/oak_wine_rack_big": {
+    "criteria": {
+      "has_oak_planks": "2025-07-14 19:29:10 +0000"
     },
     "done": true
   },
@@ -455,10 +617,24 @@
     },
     "done": true
   },
+  "vinery:recipes/oak_wine_rack_small": {
+    "criteria": {
+      "has_oak_planks": "2025-07-14 19:29:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-07-14 19:29:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2025-07-14 19:10:45 +0000",
-      "minecraft:old_growth_spruce_taiga": "2025-07-14 19:06:11 +0000"
+      "minecraft:forest": "2025-07-14 19:22:44 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-07-14 19:06:11 +0000",
+      "minecraft:plains": "2025-07-14 19:17:58 +0000"
     },
     "done": false
   },
