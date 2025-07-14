@@ -2905,6 +2905,12 @@
     },
     "done": true
   },
+  "incendium:toxic_heap/root": {
+    "criteria": {
+      "requirement": "2025-07-14 19:33:50 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/brazier": {
     "criteria": {
       "has_item": "2025-07-14 18:40:00 +0000"
@@ -2914,6 +2920,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall": {
     "criteria": {
       "has_deepslate_bricks": "2025-07-14 18:18:03 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:volcanic_deltas": "2025-07-14 19:33:51 +0000"
     },
     "done": true
   },
@@ -2976,6 +2988,13 @@
       "usevampireinvis": "2025-07-14 18:28:09 +0000"
     },
     "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:volcanic_deltas": "2025-07-14 19:33:51 +0000",
+      "incendium:toxic_heap": "2025-07-14 19:33:50 +0000"
+    },
+    "done": false
   },
   "minecraft:nether/find_fortress": {
     "criteria": {
@@ -3167,6 +3186,12 @@
   "bewitchment:recipes/combat/athame": {
     "criteria": {
       "has_item": "2025-07-14 18:40:00 +0000"
+    },
+    "done": true
+  },
+  "incendium:volcanic_deltas/root": {
+    "criteria": {
+      "incendium:volcanic_deltas": "2025-07-14 19:33:51 +0000"
     },
     "done": true
   },
