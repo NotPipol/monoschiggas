@@ -2748,6 +2748,12 @@
     },
     "done": true
   },
+  "bewitchment:hidden_unlocks/altars": {
+    "criteria": {
+      "has_item": "2025-07-14 18:47:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-07-14 18:18:03 +0000"
@@ -2953,9 +2959,27 @@
     },
     "done": true
   },
+  "bewitchment:recipes/food/grilled_garlic": {
+    "criteria": {
+      "has_item": "2025-07-14 18:54:03 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic_from_campfire_cooking": {
+    "criteria": {
+      "has_item": "2025-07-14 18:54:03 +0000"
+    },
+    "done": true
+  },
   "haema:use_ritual_table": {
     "criteria": {
       "useritual": "2025-07-14 18:25:25 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic_from_smoking": {
+    "criteria": {
+      "has_item": "2025-07-14 18:54:03 +0000"
     },
     "done": true
   },
@@ -3001,6 +3025,12 @@
     },
     "done": true
   },
+  "bewitchment:hidden_unlocks/taglock": {
+    "criteria": {
+      "has_item": "2025-07-14 18:52:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-07-14 18:12:27 +0000"
@@ -3010,6 +3040,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2025-07-14 18:10:42 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:hidden_unlocks/witch_cauldron": {
+    "criteria": {
+      "has_item": "2025-07-14 18:52:50 +0000"
     },
     "done": true
   },

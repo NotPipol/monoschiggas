@@ -1707,6 +1707,19 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-07-14 18:54:53 +0000",
+      "minecraft:basalt_deltas": "2025-07-14 18:55:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-07-14 18:54:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-07-14 18:05:14 +0000"
@@ -1775,6 +1788,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2025-07-14 18:53:45 +0000",
+      "minecraft:zombie": "2025-07-14 18:53:49 +0000",
       "minecraft:drowned": "2025-07-14 18:28:29 +0000"
     },
     "done": false
@@ -1794,6 +1809,12 @@
   "chococraft:recipes/food/gysahl_cake": {
     "criteria": {
       "has_gysahl_green": "2025-07-14 18:04:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-07-14 18:53:46 +0000"
     },
     "done": true
   },
@@ -1818,6 +1839,12 @@
   "create:recipes/misc/crafting/materials/andesite_alloy": {
     "criteria": {
       "has_item": "2025-07-14 18:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-07-14 18:53:46 +0000"
     },
     "done": true
   },
@@ -1890,6 +1917,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-07-14 18:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-07-14 18:55:34 +0000"
     },
     "done": true
   },
@@ -2001,6 +2034,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-07-14 18:55:35 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-07-14 18:09:20 +0000"
@@ -2094,6 +2133,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-14 18:08:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-07-14 18:55:34 +0000"
     },
     "done": true
   },
@@ -2229,6 +2274,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-07-14 18:53:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-07-14 18:05:14 +0000"
@@ -2247,6 +2298,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-07-14 18:54:52 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/misc/gysahl_green_to_seeds": {
     "criteria": {
       "has_gysahl_green": "2025-07-14 18:04:06 +0000"
@@ -2262,6 +2319,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-07-14 18:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-07-14 18:53:46 +0000"
     },
     "done": true
   },
@@ -2379,6 +2442,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-07-14 18:54:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-07-14 18:34:54 +0000"
@@ -2469,6 +2538,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-07-14 18:55:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-07-14 18:53:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-14 18:08:52 +0000"
@@ -2502,6 +2583,12 @@
   "ad_astra:recipes/misc/compressor": {
     "criteria": {
       "has_compressor": "2025-07-14 18:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-07-14 18:53:46 +0000"
     },
     "done": true
   },
