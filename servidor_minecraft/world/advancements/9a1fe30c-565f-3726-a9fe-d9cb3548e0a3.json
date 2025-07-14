@@ -826,6 +826,7 @@
     "criteria": {
       "cooked_porkchop": "2025-07-14 04:03:44 +0000",
       "sweet_berries": "2025-07-14 02:47:39 +0000",
+      "cooked_beef": "2025-07-14 19:07:38 +0000",
       "apple": "2025-07-14 04:28:10 +0000",
       "bread": "2025-07-14 03:27:01 +0000",
       "rotten_flesh": "2025-07-14 02:52:27 +0000",
@@ -4861,6 +4862,12 @@
     },
     "done": true
   },
+  "moredelight:recipes/food/steak_sandwich": {
+    "criteria": {
+      "has_cooked_beef": "2025-07-14 19:07:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-07-14 18:49:52 +0000"
@@ -4906,6 +4913,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-07-14 18:49:37 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/white_grape_bag": {
+    "criteria": {
+      "has_white_grape": "2025-07-14 19:12:31 +0000"
     },
     "done": true
   },
