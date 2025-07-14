@@ -2820,6 +2820,12 @@
     },
     "done": true
   },
+  "vinery:main/wild_harvest": {
+    "criteria": {
+      "red_grape_seeds": "2025-07-14 18:35:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-07-14 18:23:58 +0000"
@@ -2829,6 +2835,12 @@
   "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
     "criteria": {
       "has_deepslate_bricks": "2025-07-14 18:18:03 +0000"
+    },
+    "done": true
+  },
+  "haema:use_mist": {
+    "criteria": {
+      "usevampireinvis": "2025-07-14 18:28:09 +0000"
     },
     "done": true
   },

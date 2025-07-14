@@ -1683,6 +1683,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-07-14 18:34:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-14 18:08:52 +0000"
@@ -1754,6 +1760,12 @@
       "has_iron_ingot": "2025-07-14 18:05:14 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:drowned": "2025-07-14 18:28:29 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
@@ -2247,6 +2259,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-07-14 18:34:54 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/elder_chest": {
     "criteria": {
       "has_lots_of_items": "2025-07-14 18:08:13 +0000"
@@ -2334,6 +2352,12 @@
   "lockandblock:recipes/misc/reinforced_iron_ingot_from_carbon": {
     "criteria": {
       "has_iron_ingot": "2025-07-14 18:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:drowned": "2025-07-14 18:28:29 +0000"
     },
     "done": true
   },
