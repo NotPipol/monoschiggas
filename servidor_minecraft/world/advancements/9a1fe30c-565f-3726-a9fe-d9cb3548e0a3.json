@@ -4801,12 +4801,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-07-14 18:35:30 +0000"
-    },
-    "done": false
-  },
   "create:mechanical_pump_0": {
     "criteria": {
       "0": "2025-07-14 18:20:37 +0000"

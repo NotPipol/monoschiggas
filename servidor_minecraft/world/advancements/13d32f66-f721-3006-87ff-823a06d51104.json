@@ -1671,6 +1671,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-07-14 18:45:21 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/birch_poppet_shelf": {
     "criteria": {
       "has_item": "2025-07-14 18:18:40 +0000"
@@ -1728,6 +1734,12 @@
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-14 18:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-07-14 18:45:21 +0000"
     },
     "done": true
   },
@@ -1815,6 +1827,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-07-14 18:45:21 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/dark_oak_poppet_shelf": {
     "criteria": {
       "has_item": "2025-07-14 18:18:40 +0000"
@@ -1830,6 +1848,12 @@
   "create:recipes/building_blocks/cut_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-07-14 18:09:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-14 18:44:40 +0000"
     },
     "done": true
   },
@@ -1875,9 +1899,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-14 18:44:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-07-14 18:11:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-07-14 18:45:21 +0000"
     },
     "done": true
   },
@@ -1890,6 +1926,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-07-14 18:09:20 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/cooking/diced_potatoes_with_beef": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-14 18:45:21 +0000"
     },
     "done": true
   },
@@ -1941,9 +1983,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-07-14 18:45:21 +0000"
+    },
+    "done": true
+  },
   "nethersdelight:recipes/tools/iron_machete": {
     "criteria": {
       "has_iron_ingot": "2025-07-14 18:05:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-14 18:45:21 +0000"
     },
     "done": true
   },
@@ -1971,9 +2025,21 @@
     },
     "done": true
   },
+  "moredelight:recipes/cooking/mashed_potatoes": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-14 18:44:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-07-14 18:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_the_recipe": "2025-07-14 18:43:54 +0000"
     },
     "done": true
   },
@@ -1986,6 +2052,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-07-14 18:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-07-14 18:45:21 +0000"
     },
     "done": true
   },
@@ -2007,6 +2079,12 @@
     },
     "done": true
   },
+  "moredelight:recipes/cooking/carrot_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-14 18:44:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-14 18:09:20 +0000"
@@ -2022,6 +2100,12 @@
   "bewitchment:recipes/decorations/elder_poppet_shelf": {
     "criteria": {
       "has_item": "2025-07-14 18:18:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-07-14 18:45:21 +0000"
     },
     "done": true
   },
@@ -2055,9 +2139,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-07-14 18:44:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-14 18:08:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-07-14 18:45:21 +0000"
     },
     "done": true
   },
@@ -2079,9 +2175,21 @@
     },
     "done": true
   },
+  "moredelight:recipes/cooking/potato_salad": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-14 18:44:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-07-14 18:05:14 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/cooking/cooked_rice_with_beef": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-14 18:44:40 +0000"
     },
     "done": true
   },
@@ -2211,6 +2319,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-07-14 18:44:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-07-14 18:09:20 +0000"
@@ -2253,6 +2367,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-14 18:45:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-07-14 18:09:20 +0000"
@@ -2277,6 +2397,12 @@
     },
     "done": true
   },
+  "rusticdelight:recipes/cooking/batter": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-14 18:44:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-07-14 18:09:20 +0000"
@@ -2286,6 +2412,12 @@
   "create:recipes/building_blocks/small_granite_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-07-14 18:09:20 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/cooking/cooked_rice_with_chicken_cuts": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-14 18:44:40 +0000"
     },
     "done": true
   },
@@ -2373,6 +2505,12 @@
     },
     "done": true
   },
+  "moredelight:recipes/cooking/creamy_pasta_with_ham": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-14 18:44:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-07-14 18:05:14 +0000"
@@ -2382,6 +2520,12 @@
   "bewitchment:recipes/decorations/iron_candelabra": {
     "criteria": {
       "has_item": "2025-07-14 18:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-07-14 18:45:21 +0000"
     },
     "done": true
   },
