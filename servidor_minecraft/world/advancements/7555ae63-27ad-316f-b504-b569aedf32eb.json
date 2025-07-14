@@ -161,12 +161,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-07-14 20:30:35 +0000"
-    },
-    "done": false
-  },
   "smallships:recipes/transportation/acacia_galley": {
     "criteria": {
       "in_water": "2025-07-14 20:24:20 +0000"
