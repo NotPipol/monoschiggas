@@ -5115,6 +5115,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-07-14 21:30:35 +0000"
+    },
+    "done": false
+  },
   "bewitchment:recipes/building_blocks/silver_block": {
     "criteria": {
       "has_item": "2025-07-14 21:09:56 +0000"

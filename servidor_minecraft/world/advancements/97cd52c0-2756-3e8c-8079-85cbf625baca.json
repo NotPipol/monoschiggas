@@ -3117,12 +3117,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-07-14 21:20:35 +0000"
-    },
-    "done": false
-  },
   "farmersdelight:recipes/cooking/mushroom_rice": {
     "criteria": {
       "has_any_ingredient": "2025-07-14 19:51:51 +0000"
@@ -3303,6 +3297,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-07-14 21:27:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-07-14 21:27:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2025-07-14 21:12:47 +0000"
@@ -3333,6 +3339,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-07-14 21:27:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2025-07-14 20:43:58 +0000"
@@ -3342,6 +3354,12 @@
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2025-07-14 20:23:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-07-14 21:27:00 +0000"
     },
     "done": true
   },
@@ -3483,6 +3501,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-07-14 21:26:20 +0000"
+    },
+    "done": true
+  },
   "cratedelight:recipes/building_blocks/brown_mushroom_crate": {
     "criteria": {
       "has_brown_mushroom": "2025-07-14 19:51:51 +0000"
@@ -3510,6 +3534,18 @@
   "lockandblock:recipes/redstone/redstone_laser": {
     "criteria": {
       "has_item": "2025-07-14 21:12:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-07-14 21:27:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-07-14 21:27:00 +0000"
     },
     "done": true
   },
@@ -3564,6 +3600,12 @@
   "lockandblock:recipes/combat/land_mine": {
     "criteria": {
       "has_item": "2025-07-14 20:10:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-07-14 21:22:54 +0000"
     },
     "done": true
   },
