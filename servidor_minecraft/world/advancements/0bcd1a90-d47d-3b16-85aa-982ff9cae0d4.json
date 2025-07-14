@@ -2003,9 +2003,21 @@
     },
     "done": true
   },
+  "enchanted:recipes/misc/anointing_paste": {
+    "criteria": {
+      "has_belladonna_seeds": "2025-07-14 16:12:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-07-14 16:05:32 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_piles/azure_bluet": {
+    "criteria": {
+      "has_flower": "2025-07-14 16:11:55 +0000"
     },
     "done": true
   },
@@ -2024,6 +2036,12 @@
   "create:recipes/misc/smelting/glass_pane_from_framed_glass_pane": {
     "criteria": {
       "has_item": "2025-07-14 15:56:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-07-14 16:11:55 +0000"
     },
     "done": true
   },
