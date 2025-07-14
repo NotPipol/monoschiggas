@@ -2357,6 +2357,7 @@
       "minecraft:spider": "2025-07-14 16:07:31 +0000",
       "minecraft:creeper": "2025-07-14 20:27:27 +0000",
       "minecraft:phantom": "2025-07-14 05:32:37 +0000",
+      "minecraft:piglin": "2025-07-14 21:47:33 +0000",
       "minecraft:zombie": "2025-07-14 03:15:18 +0000",
       "minecraft:drowned": "2025-07-14 04:26:36 +0000"
     },
@@ -5115,12 +5116,6 @@
       "has_any_ingredient": "2025-07-14 20:00:39 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-07-14 21:40:35 +0000"
-    },
-    "done": false
   },
   "bewitchment:recipes/building_blocks/silver_block": {
     "criteria": {
