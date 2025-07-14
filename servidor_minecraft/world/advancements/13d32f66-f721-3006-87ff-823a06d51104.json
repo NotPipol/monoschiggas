@@ -69,6 +69,7 @@
     "criteria": {
       "minecraft:taiga": "2025-07-14 04:18:10 +0000",
       "minecraft:frozen_river": "2025-07-14 04:25:22 +0000",
+      "minecraft:birch_forest": "2025-07-14 20:03:24 +0000",
       "minecraft:beach": "2025-07-14 05:27:23 +0000",
       "minecraft:river": "2025-07-14 04:27:38 +0000",
       "minecraft:snowy_plains": "2025-07-14 04:26:08 +0000",
@@ -2833,9 +2834,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/birch_window": {
+    "criteria": {
+      "has_ingredient": "2025-07-14 20:03:52 +0000"
+    },
+    "done": true
+  },
   "nethersdelight:recipes/tools/golden_machete": {
     "criteria": {
       "has_gold_ingot": "2025-07-14 19:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-07-14 20:03:52 +0000"
     },
     "done": true
   },
@@ -2899,6 +2912,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-07-14 20:03:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-07-14 20:03:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-07-14 19:40:00 +0000"
@@ -2911,9 +2936,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-07-14 20:03:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-07-14 19:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-14 20:03:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-14 20:03:52 +0000"
     },
     "done": true
   },
@@ -2923,9 +2966,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-07-14 20:03:52 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/birch_wine_rack_small": {
+    "criteria": {
+      "has_birch_planks": "2025-07-14 20:03:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-07-14 19:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-14 20:03:52 +0000"
+    },
+    "done": true
+  },
+  "genshinstrument:recipes/people_of_the_springs_instruments": {
+    "criteria": {
+      "has_main": "2025-07-14 20:03:52 +0000"
     },
     "done": true
   },
@@ -2950,6 +3017,12 @@
   "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-14 19:54:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-07-14 20:03:27 +0000"
     },
     "done": true
   },
@@ -3031,6 +3104,12 @@
     },
     "done": true
   },
+  "vinery:recipes/birch_wine_rack_big": {
+    "criteria": {
+      "has_birch_planks": "2025-07-14 20:03:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-07-14 19:40:00 +0000"
@@ -3049,6 +3128,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2025-07-14 20:03:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-14 19:54:01 +0000"
@@ -3058,6 +3143,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-14 19:54:01 +0000"
+    },
+    "done": true
+  },
+  "haema:store_blood": {
+    "criteria": {
+      "storeblood": "2025-07-14 20:04:57 +0000"
     },
     "done": true
   },
@@ -3121,6 +3212,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-14 20:03:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2025-07-14 19:54:01 +0000"
@@ -3130,6 +3227,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2025-07-14 19:54:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-14 20:03:52 +0000"
     },
     "done": true
   },

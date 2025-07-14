@@ -4952,6 +4952,12 @@
     },
     "done": true
   },
+  "moredelight:recipes/cooking/carrot_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-14 20:00:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-07-14 18:49:51 +0000"
@@ -4985,6 +4991,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-07-14 18:49:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-14 20:00:39 +0000"
     },
     "done": true
   },
@@ -5054,6 +5066,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-07-14 20:00:39 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/stonecutting/asphalt/polished_block": {
     "criteria": {
       "has_asphalt": "2025-07-14 18:58:14 +0000"
@@ -5081,6 +5099,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-07-14 19:49:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-14 20:00:39 +0000"
     },
     "done": true
   },

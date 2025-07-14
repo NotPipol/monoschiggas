@@ -3258,6 +3258,12 @@
     },
     "done": true
   },
+  "enchanted:recipes/misc/broom": {
+    "criteria": {
+      "has_hawthorn_sapling": "2025-07-14 20:07:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dried_kelp_block": {
     "criteria": {
       "has_dried_kelp": "2025-07-14 19:25:04 +0000"
