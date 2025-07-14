@@ -24,12 +24,12 @@
 		# The maximum distance a Wandering Trader can detect a player. The longer the distance, the more difficult the challenge to pickpocket their backpack.
 		# Valid range: 1 to 32 (inclusive)
 		maxDetectionDistance = 10.0
-		# If true, allows players who are disliked by Wandering Traders to continue to trade normally with them. A player is considered disliked if they are caught when trying to pickpocket a Wandering Trader's backpack.
-		# Valid values: true, false
-		dislikedPlayersCanTrade = false
 		# The maximum multiplier to apply when generating loot in the Wandering Trader backpack
 		# Valid range: 1 to 64 (inclusive)
 		maxLootMultiplier = 12
+		# If true, allows players who are disliked by Wandering Traders to continue to trade normally with them. A player is considered disliked if they are caught when trying to pickpocket a Wandering Trader's backpack.
+		# Valid values: true, false
+		dislikedPlayersCanTrade = false
 		# The amount of time (in ticks) a player has to wait before a Wandering Trader will like them again. If a player gets caught pickpocketing a Wandering Trader, the cooldown will be reset
 		# Valid range: 0 to 24000 (inclusive)
 		dislikeCooldown = 6000
@@ -44,12 +44,12 @@
 		maxEmeraldStack = 32
 
 [backpack]
-	# The amount of slot rows in the backpack inventory.
-	# Valid range: 1 to 7 (inclusive)
-	inventorySizeRows = 6
 	# If enabled, the backpack will stay on the player on death. Similar to keep inventory rule.
 	# Valid values: true, false
 	keepOnDeath = false
+	# The amount of slot rows in the backpack inventory.
+	# Valid range: 1 to 7 (inclusive)
+	inventorySizeRows = 6
 	# Allows every player to use any backpack cosmetic variant without needing to complete the challenges. Side note, any progress to a challenge will not be tracked while enabled.
 	# Valid values: true, false
 	unlockAllCosmetics = false
