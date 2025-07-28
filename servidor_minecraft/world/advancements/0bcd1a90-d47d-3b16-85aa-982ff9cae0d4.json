@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-28 22:58:45 +0000"
+    },
+    "done": false
+  },
   "create:root": {
     "criteria": {
       "0": "2025-07-28 22:48:11 +0000"
@@ -16,6 +22,12 @@
       "requirement": "2025-07-28 22:47:54 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-28 22:58:45 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
@@ -29,6 +41,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-28 22:58:45 +0000"
+    },
+    "done": false
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2025-07-28 22:47:54 +0000"
@@ -41,11 +59,29 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-28 22:58:45 +0000"
+    },
+    "done": false
+  },
   "betterdungeons:root": {
     "criteria": {
       "always": "2025-07-28 22:47:54 +0000"
     },
     "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-28 22:58:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-28 22:58:45 +0000"
+    },
+    "done": false
   },
   "incendium:technical/using/shield": {
     "criteria": {
@@ -59,11 +95,47 @@
     },
     "done": true
   },
+  "genshinstrument:genshin_instruments/people_of_the_springs": {
+    "criteria": {
+      "instrument_played": "2025-07-28 22:56:04 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-28 22:58:45 +0000"
+    },
+    "done": false
+  },
   "delightfulcreators:root": {
     "criteria": {
       "0": "2025-07-28 22:48:11 +0000"
     },
     "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-28 22:58:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-28 22:58:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-28 22:58:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-28 22:58:45 +0000"
+    },
+    "done": false
   },
   "vinery:main/root": {
     "criteria": {
@@ -77,11 +149,23 @@
     },
     "done": false
   },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-28 22:58:45 +0000"
+    },
+    "done": false
+  },
   "incendium:technical/using/ragnarok": {
     "criteria": {
       "log_spam_fixer": "2025-07-28 22:47:54 +0000"
     },
     "done": false
+  },
+  "genshinstrument:genshin_instruments/root": {
+    "criteria": {
+      "has_instruments": "2025-07-28 22:56:01 +0000"
+    },
+    "done": true
   },
   "farmersdelight:main/root": {
     "criteria": {
@@ -89,11 +173,23 @@
     },
     "done": true
   },
+  "genshinstrument:genshin_instruments/master_of_the_springs": {
+    "criteria": {
+      "instrument_1_played": "2025-07-28 22:56:04 +0000"
+    },
+    "done": false
+  },
   "incendium:technical/using/trailblazer": {
     "criteria": {
       "log_spam_fixer": "2025-07-28 22:47:54 +0000"
     },
     "done": false
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-07-28 22:53:24 +0000"
+    },
+    "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
