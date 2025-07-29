@@ -1,8 +1,8 @@
-[22:59:50] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.14
-[22:59:50] [ForkJoinPool-1-worker-2/WARN]: Mod mr_stellarity uses the version 2.0e which isn't compatible with Loader's extended semantic version format (Could not parse version number component '0e'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[22:59:50] [ForkJoinPool-1-worker-2/WARN]: Mod oceansdelight uses the version fdrf-fabric-1.0.2-1.20 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fdrf'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[22:59:51] [ForkJoinPool-1-worker-4/WARN]: Mod haema uses the version ${version} which isn't compatible with Loader's extended semantic version format (Could not parse version number component '${version}'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[22:59:51] [main/INFO]: Loading 306 mods:
+[16:49:23] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.14
+[16:49:26] [ForkJoinPool-1-worker-1/WARN]: Mod mr_stellarity uses the version 2.0e which isn't compatible with Loader's extended semantic version format (Could not parse version number component '0e'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[16:49:27] [ForkJoinPool-1-worker-4/WARN]: Mod oceansdelight uses the version fdrf-fabric-1.0.2-1.20 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fdrf'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[16:49:28] [ForkJoinPool-1-worker-1/WARN]: Mod haema uses the version ${version} which isn't compatible with Loader's extended semantic version format (Could not parse version number component '${version}'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[16:49:29] [main/INFO]: Loading 306 mods:
 	- ad_astra 1.15.20
 	   \-- javazoom_jlayer 1.0.1
 	- almanac 1.0.2
@@ -390,98 +390,98 @@
 	- xaerominimap 25.2.6
 	- xaeroworldmap 1.39.9
 	- yungsapi 1.20-Fabric-4.0.6
-[22:59:51] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/monoschiggas/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[22:59:51] [main/INFO]: Compatibility level set to JAVA_17
-[22:59:52] [main/INFO]: Initializing com.ishland.c2me.base.mixin
-[22:59:52] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
-[22:59:52] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
-[22:59:52] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
-[22:59:52] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
-[22:59:52] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
-[22:59:52] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
-[22:59:52] [main/INFO]: Initializing com.ishland.c2me.opts.chunk_access.mixin
-[22:59:52] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
-[22:59:52] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
-[22:59:52] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
-[22:59:52] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
-[22:59:52] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
-[22:59:52] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
-[22:59:52] [main/INFO]: Disabling config ioSystem.gcFreeChunkSerializer: Incompatible with architectury@9.2.14 (*) (defined in c2me)
-[22:59:52] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunk_serializer.mixin
-[22:59:52] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
-[22:59:52] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunkio.mixin
-[22:59:52] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
-[22:59:52] [main/INFO]: Initializing com.ishland.c2me.threading.chunkio.mixin
-[22:59:52] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
-[22:59:52] [main/INFO]: Initializing com.ishland.c2me.threading.worldgen.mixin
-[22:59:52] [main/INFO]: Disabling com.ishland.c2me.threading.worldgen.mixin
-[22:59:52] [main/WARN]: Reference map 'icarus.refmap.json' for icarus.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:59:52] [main/WARN]: Reference map 'icarus.refmap.json' for icarus.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:59:52] [main/WARN]: Mod 'apoli' attempted to override option 'mixin.entity.collisions.suffocation', which doesn't exist, ignoring
-[22:59:52] [main/INFO]: Loaded configuration file for Lithium: 131 options available, 4 override(s) found
-[22:59:52] [main/WARN]: Reference map 'memoryleakfix-fabric-1.17+-fabric-refmap.json' for memoryleakfix-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:59:52] [main/INFO]: Loaded configuration file for ModernFix 5.24.1+mc1.20.1: 70 options available, 3 override(s) found
-[22:59:52] [main/WARN]: Option 'mixin.bugfix.paper_chunk_patches' overriden (by mods [c2me]) to 'false'
-[22:59:52] [main/WARN]: Option 'mixin.perf.cache_strongholds' overriden (by mods [c2me]) to 'false'
-[22:59:52] [main/WARN]: Option 'mixin.bugfix.chunk_deadlock' overriden (by mods [c2me]) to 'false'
-[22:59:52] [main/INFO]: Applying Nashorn fix
-[22:59:52] [main/WARN]: Reference map 'oceansdelight-refmap.json' for oceansdelight.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:59:52] [main/INFO]: Packet Fixer fabric 1.19.3-1.20.1 has been applied successfully.
-[22:59:52] [main/WARN]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:59:52] [main/WARN]: Reference map 'puzzlesaccessapi.fabric.refmap.json' for puzzlesaccessapi.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:59:53] [main/WARN]: Error loading class: net/minecraft/class_881 (java.lang.ClassNotFoundException: net/minecraft/class_881)
-[22:59:53] [main/WARN]: @Mixin target net.minecraft.class_881 was not found porting_lib_base.mixins.json:client.BoatRendererMixin from mod porting_lib_base
-[22:59:53] [main/WARN]: Error loading class: net/minecraft/class_525 (java.lang.ClassNotFoundException: net/minecraft/class_525)
-[22:59:53] [main/WARN]: @Mixin target net.minecraft.class_525 was not found porting_lib_base.mixins.json:client.CreateWorldScreenMixin from mod porting_lib_base
-[22:59:53] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
-[22:59:53] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_tool_actions.mixins.json:FishingHookRendererMixin from mod porting_lib_tool_actions
-[22:59:53] [main/WARN]: Error loading class: net/minecraft/class_1007 (java.lang.ClassNotFoundException: net/minecraft/class_1007)
-[22:59:53] [main/WARN]: @Mixin target net.minecraft.class_1007 was not found fantasy_armor.mixins.json:FARenderMixin from mod fantasy_armor
-[22:59:53] [main/WARN]: Force-disabling mixin 'ai.task.memory_change_counting.BrainMixin' as rule 'mixin.ai.task.memory_change_counting' (added by mods [smartbrainlib]) disables it and children
-[22:59:53] [main/WARN]: Force-disabling mixin 'ai.task.memory_change_counting.MultiTickTaskMixin' as rule 'mixin.ai.task.memory_change_counting' (added by mods [smartbrainlib]) disables it and children
-[22:59:53] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
-[22:59:53] [main/WARN]: Force-disabling mixin 'alloc.chunk_ticking.ServerChunkManagerMixin' as rule 'mixin.alloc.chunk_ticking' (added by mods [servercore]) disables it and children
-[22:59:53] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [c2me, krypton]) disables it and children
-[22:59:54] [main/WARN]: Error loading class: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage)
-[22:59:54] [main/INFO]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
-[22:59:54] [main/INFO]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
-[22:59:54] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[22:59:55] [main/WARN]: Method overwrite conflict for method_43250 in lazydfu.mixins.json:SharedConstantsMixin from mod lazydfu, previously written by net.dnlayu.fastboot.mixin.SharedConstantsMixin. Skipping method.
-[22:59:58] [main/INFO]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
-[22:59:58] [main/INFO]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
-[22:59:58] [main/INFO]: Injecting BlockStateBase cache population hook into getPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
-[22:59:58] [main/INFO]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
-[22:59:58] [main/INFO]: Injecting BlockStateBase cache population hook into getAllFlags from me.jellysquid.mods.lithium.mixin.util.block_tracking.AbstractBlockStateMixin
-[22:59:59] [main/WARN]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=1 on palladiumcore-common.mixins.json:LightningBoltMixin from mod palladiumcore::handler$dmi001$palladiumcore$tick exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[23:00:01] [main/WARN]: Method overwrite conflict for method_8183 in maxenchantx.mixins.json:LuckMixin from mod maxenchantx, previously written by com.zyga.maxenchantx.mixin.LootingMixin. Skipping method.
-[23:00:01] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
-[23:00:01] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by me.jellysquid.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
-[23:00:02] [main/INFO]: Vanilla bootstrap took 6346 milliseconds
-[23:00:04] [main/INFO]: Apoli 2.9.0 has initialized. Ready to power up your game!
-[23:00:04] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[23:00:04] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[23:00:04] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[23:00:04] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[23:00:04] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[23:00:04] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[23:00:04] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[23:00:04] [main/INFO]: Running compat handler for Origins
-[23:00:04] [main/INFO]: Reflections took 80 ms to scan 1 urls, producing 3 keys and 34 values
-[23:00:04] [main/INFO]: Registered synced data key backpacked:unlock_tracker for minecraft:player
-[23:00:04] [main/INFO]: Registered synced data key backpacked:trader_pickpocketing for minecraft:wandering_trader
-[23:00:04] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
-[23:00:04] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
-[23:00:04] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[23:00:04] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[23:00:04] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[23:00:04] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[23:00:04] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
-[23:00:05] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[23:00:05] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[23:00:05] [main/INFO]: Reflections took 0 ms to scan 1 urls, producing 1 keys and 1 values
-[23:00:05] [main/INFO]: Biolith is initializing...
-[23:00:05] [main/INFO]: Loading Collective version 8.3.
-[23:00:05] [ForkJoinPool.commonPool-worker-1/ERROR]: Couldn't get patreons from https://raw.githubusercontent.com/ToCraft/craftedcore/main/common/src/main/resources/patreons.txt
+[16:49:31] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/monoschiggas/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[16:49:32] [main/INFO]: Compatibility level set to JAVA_17
+[16:49:32] [main/INFO]: Initializing com.ishland.c2me.base.mixin
+[16:49:32] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
+[16:49:32] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
+[16:49:32] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
+[16:49:32] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
+[16:49:32] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
+[16:49:32] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
+[16:49:32] [main/INFO]: Initializing com.ishland.c2me.opts.chunk_access.mixin
+[16:49:32] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
+[16:49:32] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
+[16:49:32] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
+[16:49:32] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
+[16:49:32] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
+[16:49:32] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
+[16:49:32] [main/INFO]: Disabling config ioSystem.gcFreeChunkSerializer: Incompatible with architectury@9.2.14 (*) (defined in c2me)
+[16:49:32] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunk_serializer.mixin
+[16:49:32] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
+[16:49:32] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunkio.mixin
+[16:49:32] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
+[16:49:32] [main/INFO]: Initializing com.ishland.c2me.threading.chunkio.mixin
+[16:49:32] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
+[16:49:32] [main/INFO]: Initializing com.ishland.c2me.threading.worldgen.mixin
+[16:49:32] [main/INFO]: Disabling com.ishland.c2me.threading.worldgen.mixin
+[16:49:32] [main/WARN]: Reference map 'icarus.refmap.json' for icarus.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:49:32] [main/WARN]: Reference map 'icarus.refmap.json' for icarus.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:49:32] [main/WARN]: Mod 'apoli' attempted to override option 'mixin.entity.collisions.suffocation', which doesn't exist, ignoring
+[16:49:32] [main/INFO]: Loaded configuration file for Lithium: 131 options available, 4 override(s) found
+[16:49:32] [main/WARN]: Reference map 'memoryleakfix-fabric-1.17+-fabric-refmap.json' for memoryleakfix-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:49:32] [main/INFO]: Loaded configuration file for ModernFix 5.24.1+mc1.20.1: 70 options available, 3 override(s) found
+[16:49:32] [main/WARN]: Option 'mixin.bugfix.paper_chunk_patches' overriden (by mods [c2me]) to 'false'
+[16:49:32] [main/WARN]: Option 'mixin.perf.cache_strongholds' overriden (by mods [c2me]) to 'false'
+[16:49:32] [main/WARN]: Option 'mixin.bugfix.chunk_deadlock' overriden (by mods [c2me]) to 'false'
+[16:49:32] [main/INFO]: Applying Nashorn fix
+[16:49:32] [main/WARN]: Reference map 'oceansdelight-refmap.json' for oceansdelight.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:49:33] [main/INFO]: Packet Fixer fabric 1.19.3-1.20.1 has been applied successfully.
+[16:49:33] [main/WARN]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:49:33] [main/WARN]: Reference map 'puzzlesaccessapi.fabric.refmap.json' for puzzlesaccessapi.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:49:33] [main/WARN]: Error loading class: net/minecraft/class_881 (java.lang.ClassNotFoundException: net/minecraft/class_881)
+[16:49:33] [main/WARN]: @Mixin target net.minecraft.class_881 was not found porting_lib_base.mixins.json:client.BoatRendererMixin from mod porting_lib_base
+[16:49:33] [main/WARN]: Error loading class: net/minecraft/class_525 (java.lang.ClassNotFoundException: net/minecraft/class_525)
+[16:49:33] [main/WARN]: @Mixin target net.minecraft.class_525 was not found porting_lib_base.mixins.json:client.CreateWorldScreenMixin from mod porting_lib_base
+[16:49:34] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
+[16:49:34] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_tool_actions.mixins.json:FishingHookRendererMixin from mod porting_lib_tool_actions
+[16:49:34] [main/WARN]: Error loading class: net/minecraft/class_1007 (java.lang.ClassNotFoundException: net/minecraft/class_1007)
+[16:49:34] [main/WARN]: @Mixin target net.minecraft.class_1007 was not found fantasy_armor.mixins.json:FARenderMixin from mod fantasy_armor
+[16:49:34] [main/WARN]: Force-disabling mixin 'ai.task.memory_change_counting.BrainMixin' as rule 'mixin.ai.task.memory_change_counting' (added by mods [smartbrainlib]) disables it and children
+[16:49:34] [main/WARN]: Force-disabling mixin 'ai.task.memory_change_counting.MultiTickTaskMixin' as rule 'mixin.ai.task.memory_change_counting' (added by mods [smartbrainlib]) disables it and children
+[16:49:34] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[16:49:34] [main/WARN]: Force-disabling mixin 'alloc.chunk_ticking.ServerChunkManagerMixin' as rule 'mixin.alloc.chunk_ticking' (added by mods [servercore]) disables it and children
+[16:49:34] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [c2me, krypton]) disables it and children
+[16:49:34] [main/WARN]: Error loading class: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage)
+[16:49:35] [main/INFO]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
+[16:49:35] [main/INFO]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
+[16:49:35] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[16:49:36] [main/WARN]: Method overwrite conflict for method_43250 in lazydfu.mixins.json:SharedConstantsMixin from mod lazydfu, previously written by net.dnlayu.fastboot.mixin.SharedConstantsMixin. Skipping method.
+[16:49:39] [main/INFO]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[16:49:39] [main/INFO]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[16:49:39] [main/INFO]: Injecting BlockStateBase cache population hook into getPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[16:49:39] [main/INFO]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[16:49:39] [main/INFO]: Injecting BlockStateBase cache population hook into getAllFlags from me.jellysquid.mods.lithium.mixin.util.block_tracking.AbstractBlockStateMixin
+[16:49:40] [main/WARN]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=1 on palladiumcore-common.mixins.json:LightningBoltMixin from mod palladiumcore::handler$dmi001$palladiumcore$tick exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[16:49:41] [main/WARN]: Method overwrite conflict for method_8183 in maxenchantx.mixins.json:LuckMixin from mod maxenchantx, previously written by com.zyga.maxenchantx.mixin.LootingMixin. Skipping method.
+[16:49:42] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[16:49:42] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by me.jellysquid.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
+[16:49:42] [main/INFO]: Vanilla bootstrap took 5822 milliseconds
+[16:49:45] [main/INFO]: Apoli 2.9.0 has initialized. Ready to power up your game!
+[16:49:45] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[16:49:45] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[16:49:45] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[16:49:45] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[16:49:45] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[16:49:45] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[16:49:45] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[16:49:45] [main/INFO]: Running compat handler for Origins
+[16:49:45] [main/INFO]: Reflections took 68 ms to scan 1 urls, producing 3 keys and 34 values
+[16:49:45] [main/INFO]: Registered synced data key backpacked:unlock_tracker for minecraft:player
+[16:49:45] [main/INFO]: Registered synced data key backpacked:trader_pickpocketing for minecraft:wandering_trader
+[16:49:45] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+[16:49:45] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 3 values
+[16:49:45] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[16:49:45] [main/INFO]: Reflections took 0 ms to scan 1 urls, producing 1 keys and 2 values
+[16:49:45] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[16:49:45] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[16:49:45] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[16:49:45] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[16:49:45] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[16:49:45] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[16:49:46] [main/INFO]: Biolith is initializing...
+[16:49:46] [main/INFO]: Loading Collective version 8.3.
+[16:49:46] [ForkJoinPool.commonPool-worker-1/ERROR]: Couldn't get patreons from https://raw.githubusercontent.com/ToCraft/craftedcore/main/common/src/main/resources/patreons.txt
 java.io.FileNotFoundException: https://raw.githubusercontent.com/ToCraft/craftedcore/main/common/src/main/resources/patreons.txt
 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:2033) ~[?:?]
 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1626) ~[?:?]
@@ -497,105 +497,101 @@ java.io.FileNotFoundException: https://raw.githubusercontent.com/ToCraft/crafted
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[23:00:07] [main/INFO]: Removing portal checks...
-[23:00:07] [main/INFO]: Constructing common components for easyanvils:main
-[23:00:07] [main/INFO]: Constructing common components for easymagic:main
-[23:00:07] [main/INFO]: Constructing common components for easyshulkerboxes:main
-[23:00:07] [main/INFO]: Constructing common components for enchantinginfuser:main
-[23:00:07] [main/INFO]: ExpandAbility here, who dis?
-[23:00:07] [main/INFO]: Successfully registered 21 note sounds of genshinstrument:windsong_lyre
-[23:00:07] [main/INFO]: Successfully registered 21 note sounds of genshinstrument:vintage_lyre
-[23:00:07] [main/INFO]: Successfully registered 21 note sounds of genshinstrument:floral_zither_new
-[23:00:07] [main/INFO]: Successfully registered 21 note sounds of genshinstrument:floral_zither_old
-[23:00:07] [main/INFO]: Successfully registered 2 note sounds of genshinstrument:glorious_drum
-[23:00:07] [main/INFO]: Successfully registered 21 note sounds of genshinstrument:ukulele
-[23:00:07] [main/INFO]: Successfully registered 8 note sounds of genshinstrument:djem_djem_drum
-[23:00:07] [main/INFO]: Successfully registered 14 note sounds of genshinstrument:nightwind_horn_hold
-[23:00:07] [main/INFO]: Successfully registered 14 note sounds of genshinstrument:nightwind_horn_attack
-[23:00:07] [main/INFO]: Successfully loaded 14 (x2, 28 total) held note sounds for genshinstrument:nightwind_horn
-[23:00:07] [main/INFO]: Registered all note sounds for instruments
-[23:00:07] [main/INFO]: Registered all instrument items
-[23:00:08] [main/INFO]: Everything registered. It's vampire time!
-[23:00:08] [main/INFO]: Origins detected. Adding the vampire origin powers...
-[23:00:08] [main/INFO]: Hey Bewitchment, mind if I modify your vampires a little?
-[23:00:08] [main/INFO]: Ice And Fire common config version match.
-[23:00:08] [main/INFO]: Registering C2S receiver with id iceandfire:dragon_control
-[23:00:08] [main/INFO]: Registering C2S receiver with id iceandfire:multipart_interact
-[23:00:08] [main/INFO]: Registering C2S receiver with id iceandfire:player_hit_multipart
-[23:00:08] [main/INFO]: Registering C2S receiver with id iceandfire:start_riding_mob_c2s
-[23:00:08] [main/INFO]: 0 Jupiter entrypoint(s) detected: 
-[23:00:09] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 3.0.x (Linux x86_64)
-[23:00:09] [main/INFO]: Registering Mod Items for lockandblock
-[23:00:09] [main/INFO]: Registering Mod Item Groups for lockandblock
-[23:00:09] [main/INFO]: Registering ModBlocks for lockandblock
-[23:00:09] [main/INFO]: Registering Block Entities for lockandblock
-[23:00:09] [main/INFO]: Registering Mod Sounds for lockandblock
-[23:00:09] [main/INFO]: magicmirror (1.1.1) loaded!
-[23:00:09] [main/INFO]: Constructing common components for magnumtorch:main
-[23:00:09] [main/INFO]: Loaded maxhealthfix for Fabric.
-[23:00:09] [main/INFO]: Definitely not up to no good
-[23:00:09] [main/INFO]: Giving mobs a fresh coat of paint...
-[23:00:09] [main/INFO]: Reading config file for no-shield-delay
-[23:00:09] [main/INFO]: Enabled: true, Raise Time: 1
-[23:00:09] [main/INFO]: Finished Initializing no-shield-delay
-[23:00:09] [main/INFO]: Loading Noisium.
-[23:00:09] [main/INFO]: Registering Items for oceansdelight
-[23:00:09] [main/INFO]: Registering Blocks for oceansdelight
-[23:00:09] [main/INFO]: Registering tabs for oceansdelight
-[23:00:09] [main/INFO]: Origins 1.10.0 is initializing. Have fun!
-[23:00:09] [main/INFO]: Hey - if you want to spice up your house, Jello has about 1833 colors; atleast one of them has to tickle your fancy
-[23:00:09] [main/INFO]: [PatPat]: PatPat Initialized
-[23:00:09] [main/INFO]: Constructing common components for puzzlesapi:iteminteractions
-[23:00:09] [main/INFO]: Constructing common components for puzzlesapi:slotcycling
-[23:00:09] [main/INFO]: Constructing common components for puzzlesapi:limitlesscontainers
-[23:00:09] [main/INFO]: Constructing common components for puzzlesapi:statues
-[23:00:09] [main/INFO]: Constructing common components for puzzleslib:main
-[23:00:09] [main/INFO]: Reflections took 10 ms to scan 1 urls, producing 6 keys and 40 values
-[23:00:09] [main/INFO]: Reflections took 7 ms to scan 1 urls, producing 6 keys and 40 values
-[23:00:09] [main/INFO]: Registering Ribbit instruments...
-[23:00:09] [main/INFO]: Registering Ribbit umbrella types...
-[23:00:09] [main/INFO]: Registering Ribbit professions...
-[23:00:09] [main/INFO]: Registering Ribbit data serializers...
-[23:00:10] [main/INFO]: [REI] Registered plugin provider ServerREIPlugin [farmersdelight] for REIPlugin
-[23:00:10] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
-[23:00:10] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIPlugin
-[23:00:10] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
-[23:00:10] [main/INFO]: [REI] Registered plugin provider ServerREIPlugin [farmersdelight] for REIServerPlugin
-[23:00:10] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIServerPlugin
-[23:00:10] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
-[23:00:10] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIServerPlugin
-[23:00:10] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIPlugin
-[23:00:10] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:delete_item
-[23:00:10] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item
-[23:00:10] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
-[23:00:10] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
-[23:00:10] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items
-[23:00:10] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items_new
-[23:00:10] [main/INFO]: Registering items for rusticdelight
-[23:00:10] [main/INFO]: Registering blocks for rusticdelight
-[23:00:10] [main/INFO]: Registering potions for rusticdelight
-[23:00:10] [main/INFO]: Registering biome modifications for rusticdelight
-[23:00:10] [main/INFO]: Registering item group for rusticdelight
-[23:00:10] [main/INFO]: [Fabric Seasons] Trying to read config file...
-[23:00:10] [main/INFO]: [Fabric Seasons] A config file was found, loading it..
-[23:00:10] [main/INFO]: [Fabric Seasons] Successfully loaded config file.
-[23:00:10] [main/INFO]: [ServerCore] Loaded V1.5.2+1.20.1!
-[23:00:10] [Thread-4/INFO]: Starting to fetch sponsor list.
-[23:00:10] [main/INFO]: Registering furniture fuels for storagedelight
-[23:00:10] [Thread-4/INFO]: Successfully fetch sponsor list.
-[23:00:10] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 4 values
-[23:00:10] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 4 values
-[23:00:10] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
-[23:00:10] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[23:00:10] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
-[23:00:10] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[23:00:10] [main/INFO]: Bypassed Mojang DFU
-[23:00:11] [main/ERROR]: Invalid path in mod resource-pack mr_stellarity: fokastudio:worldgen/biome/README.md, ignoring
-[23:00:12] [main/WARN]: Adding spell_power:fire to saved/remote registry.
-[23:00:12] [main/WARN]: Adding spell_power:frost to saved/remote registry.
-[23:00:12] [main/WARN]: Adding spell_power:arcane to saved/remote registry.
-[23:00:12] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
-[23:00:14] [main/ERROR]: Parsing error loading recipe farmersdelightrefabricated:emptying/beetroot_soup
+[16:49:47] [main/INFO]: Removing portal checks...
+[16:49:47] [main/INFO]: Constructing common components for easyanvils:main
+[16:49:47] [main/INFO]: Constructing common components for easymagic:main
+[16:49:47] [main/INFO]: Constructing common components for easyshulkerboxes:main
+[16:49:48] [main/INFO]: Constructing common components for enchantinginfuser:main
+[16:49:48] [main/INFO]: ExpandAbility here, who dis?
+[16:49:48] [main/INFO]: Successfully registered 21 note sounds of genshinstrument:windsong_lyre
+[16:49:48] [main/INFO]: Successfully registered 21 note sounds of genshinstrument:vintage_lyre
+[16:49:48] [main/INFO]: Successfully registered 21 note sounds of genshinstrument:floral_zither_new
+[16:49:48] [main/INFO]: Successfully registered 21 note sounds of genshinstrument:floral_zither_old
+[16:49:48] [main/INFO]: Successfully registered 2 note sounds of genshinstrument:glorious_drum
+[16:49:48] [main/INFO]: Successfully registered 21 note sounds of genshinstrument:ukulele
+[16:49:48] [main/INFO]: Successfully registered 8 note sounds of genshinstrument:djem_djem_drum
+[16:49:48] [main/INFO]: Successfully registered 14 note sounds of genshinstrument:nightwind_horn_hold
+[16:49:48] [main/INFO]: Successfully registered 14 note sounds of genshinstrument:nightwind_horn_attack
+[16:49:48] [main/INFO]: Successfully loaded 14 (x2, 28 total) held note sounds for genshinstrument:nightwind_horn
+[16:49:48] [main/INFO]: Registered all note sounds for instruments
+[16:49:48] [main/INFO]: Registered all instrument items
+[16:49:48] [main/INFO]: Everything registered. It's vampire time!
+[16:49:49] [main/INFO]: Origins detected. Adding the vampire origin powers...
+[16:49:49] [main/INFO]: Hey Bewitchment, mind if I modify your vampires a little?
+[16:49:49] [main/INFO]: Ice And Fire common config version match.
+[16:49:49] [main/INFO]: Registering C2S receiver with id iceandfire:dragon_control
+[16:49:49] [main/INFO]: Registering C2S receiver with id iceandfire:multipart_interact
+[16:49:49] [main/INFO]: Registering C2S receiver with id iceandfire:player_hit_multipart
+[16:49:49] [main/INFO]: Registering C2S receiver with id iceandfire:start_riding_mob_c2s
+[16:49:49] [main/INFO]: 0 Jupiter entrypoint(s) detected: 
+[16:49:49] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 3.0.x (Linux x86_64)
+[16:49:49] [main/INFO]: Registering Mod Items for lockandblock
+[16:49:49] [main/INFO]: Registering Mod Item Groups for lockandblock
+[16:49:49] [main/INFO]: Registering ModBlocks for lockandblock
+[16:49:49] [main/INFO]: Registering Block Entities for lockandblock
+[16:49:49] [main/INFO]: Registering Mod Sounds for lockandblock
+[16:49:49] [main/INFO]: magicmirror (1.1.1) loaded!
+[16:49:49] [main/INFO]: Constructing common components for magnumtorch:main
+[16:49:50] [main/INFO]: Loaded maxhealthfix for Fabric.
+[16:49:50] [main/INFO]: Definitely not up to no good
+[16:49:50] [main/INFO]: Giving mobs a fresh coat of paint...
+[16:49:50] [main/INFO]: Reading config file for no-shield-delay
+[16:49:50] [main/INFO]: Enabled: true, Raise Time: 1
+[16:49:50] [main/INFO]: Finished Initializing no-shield-delay
+[16:49:50] [main/INFO]: Loading Noisium.
+[16:49:50] [main/INFO]: Registering Items for oceansdelight
+[16:49:50] [main/INFO]: Registering Blocks for oceansdelight
+[16:49:50] [main/INFO]: Registering tabs for oceansdelight
+[16:49:50] [main/INFO]: Origins 1.10.0 is initializing. Have fun!
+[16:49:50] [main/INFO]: yes this is a tip
+[16:49:50] [main/INFO]: [PatPat]: PatPat Initialized
+[16:49:51] [main/INFO]: Constructing common components for puzzlesapi:iteminteractions
+[16:49:51] [main/INFO]: Constructing common components for puzzlesapi:slotcycling
+[16:49:51] [main/INFO]: Constructing common components for puzzlesapi:limitlesscontainers
+[16:49:51] [main/INFO]: Constructing common components for puzzlesapi:statues
+[16:49:51] [main/INFO]: Constructing common components for puzzleslib:main
+[16:49:51] [main/INFO]: Reflections took 7 ms to scan 1 urls, producing 6 keys and 40 values
+[16:49:51] [main/INFO]: Reflections took 8 ms to scan 1 urls, producing 6 keys and 40 values
+[16:49:51] [main/INFO]: Registering Ribbit instruments...
+[16:49:51] [main/INFO]: Registering Ribbit umbrella types...
+[16:49:51] [main/INFO]: Registering Ribbit professions...
+[16:49:51] [main/INFO]: Registering Ribbit data serializers...
+[16:49:51] [main/INFO]: [REI] Registered plugin provider ServerREIPlugin [farmersdelight] for REIPlugin
+[16:49:51] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
+[16:49:51] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIPlugin
+[16:49:51] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
+[16:49:51] [main/INFO]: [REI] Registered plugin provider ServerREIPlugin [farmersdelight] for REIServerPlugin
+[16:49:51] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIServerPlugin
+[16:49:51] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
+[16:49:51] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIServerPlugin
+[16:49:51] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIPlugin
+[16:49:51] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:delete_item
+[16:49:51] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item
+[16:49:51] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
+[16:49:51] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
+[16:49:51] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items
+[16:49:51] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items_new
+[16:49:51] [main/INFO]: Registering items for rusticdelight
+[16:49:51] [main/INFO]: Registering blocks for rusticdelight
+[16:49:51] [main/INFO]: Registering potions for rusticdelight
+[16:49:51] [main/INFO]: Registering biome modifications for rusticdelight
+[16:49:51] [main/INFO]: Registering item group for rusticdelight
+[16:49:51] [main/INFO]: [Fabric Seasons] Trying to read config file...
+[16:49:51] [main/INFO]: [Fabric Seasons] A config file was found, loading it..
+[16:49:51] [main/INFO]: [Fabric Seasons] Successfully loaded config file.
+[16:49:51] [main/INFO]: [ServerCore] Loaded V1.5.2+1.20.1!
+[16:49:51] [Thread-4/INFO]: Starting to fetch sponsor list.
+[16:49:51] [main/INFO]: Registering furniture fuels for storagedelight
+[16:49:51] [Thread-4/INFO]: Successfully fetch sponsor list.
+[16:49:51] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 4 values
+[16:49:51] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 4 values
+[16:49:51] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
+[16:49:51] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[16:49:51] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[16:49:52] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:49:52] [main/INFO]: Bypassed Mojang DFU
+[16:49:52] [main/ERROR]: Invalid path in mod resource-pack mr_stellarity: fokastudio:worldgen/biome/README.md, ignoring
+[16:49:55] [main/ERROR]: Parsing error loading recipe farmersdelightrefabricated:emptying/beetroot_soup
 com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:beetroot_soup'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -621,153 +617,434 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:beetroot_soup'
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[23:00:14] [main/INFO]: Loaded 50 recipes
-[23:00:14] [main/INFO]: Loaded 4583 advancements
-[23:00:14] [main/INFO]: Finished loading powers from data files. Registry contains 81 powers.
-[23:00:14] [main/INFO]: Finished loading origins from data files. Registry contains 12 origins.
-[23:00:14] [main/INFO]: Trying to read layer file: origins:origin
-[23:00:14] [main/INFO]: Trying to read layer file: origins:origin
-[23:00:14] [main/INFO]: Finished loading origin layers from data files. Read 1 layers.
-[23:00:14] [main/INFO]: Ice And Fire common config version match.
-[23:00:14] [main/INFO]: Successfully reload 1 server config(s).
-[23:00:14] [main/INFO]: Reloading config...
-[23:00:14] [main/INFO]: [REI] ****************************************
-[23:00:14] [main/INFO]: [REI] REIPlugin starting main-reload for START.
-[23:00:14] [main/INFO]: [REI] Plugins (4):
-[23:00:14] [main/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[23:00:14] [main/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
-[23:00:14] [main/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[23:00:14] [main/INFO]: [REI]  - (0.00) ServerREIPlugin of ServerREIPlugin [farmersdelight]
-[23:00:14] [main/INFO]: [REI] ****************************************
-[23:00:14] [main/INFO]: [REI] ++++++++++++++++++++++++++++++++++++++++
-[23:00:14] [main/INFO]: [REI] REIServerPlugin starting main-reload for START.
-[23:00:14] [main/INFO]: [REI] Plugins (4):
-[23:00:14] [main/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[23:00:14] [main/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
-[23:00:14] [main/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[23:00:15] [main/INFO]: [REI]  - (0.00) ServerREIPlugin of ServerREIPlugin [farmersdelight]
-[23:00:15] [main/INFO]: [REI] ++++++++++++++++++++++++++++++++++++++++
-[23:00:15] [main/INFO]: [REI] REIPlugin finished post-reload for START in 3.853 ms, totaling 38.76 ms.
-[23:00:15] [main/INFO]: [REI] REIServerPlugin finished post-reload for START in 720.7 μs, totaling 9.829 ms.
-[23:00:15] [main/INFO]: [REI] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-[23:00:15] [main/INFO]: [REI] REIPlugin starting main-reload for END.
-[23:00:15] [main/INFO]: [REI] Plugins (4):
-[23:00:15] [main/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[23:00:15] [main/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
-[23:00:15] [main/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[23:00:15] [main/INFO]: [REI]  - (0.00) ServerREIPlugin of ServerREIPlugin [farmersdelight]
-[23:00:15] [main/INFO]: [REI] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-[23:00:15] [main/INFO]: [REI] ----------------------------------------
-[23:00:15] [main/INFO]: [REI] REIServerPlugin starting main-reload for END.
-[23:00:15] [main/INFO]: [REI] Plugins (4):
-[23:00:15] [main/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[23:00:15] [main/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
-[23:00:15] [main/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[23:00:15] [main/INFO]: [REI]  - (0.00) ServerREIPlugin of ServerREIPlugin [farmersdelight]
-[23:00:15] [main/INFO]: [REI] ----------------------------------------
-[23:00:15] [main/INFO]: [REI] REIPlugin finished post-reload for END in 1.468 ms, totaling 39.01 ms.
-[23:00:15] [main/INFO]: [REI] REIServerPlugin finished post-reload for END in 996.9 μs, totaling 7.801 ms.
-[23:00:15] [main/INFO]: [Fabric Seasons] Successfully loaded 15 custom crop configs.
-[23:00:15] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 58 translation keys
-[23:00:15] [main/INFO]: Loaded 144 recipes
-[23:00:15] [main/INFO]: Loaded 0 global power sets.
-[23:00:15] [main/WARN]: Initial datapack load took 4.263 s
-[23:00:15] [main/INFO]: Applied 1825 biome modifications to 117 of 117 new biomes in 308.4 ms
-[23:00:15] [Server thread/INFO]: Loading server config for easyanvils
-[23:00:15] [Server thread/INFO]: Loading server config for easymagic
-[23:00:15] [Server thread/INFO]: Loading server config for enchantinginfuser
-[23:00:15] [Server thread/INFO]: Loading server config for magnumtorch
-[23:00:15] [Server thread/INFO]: Loading server config for puzzlesapi
-[23:00:15] [Server thread/INFO]: Loading server configs...
-[23:00:15] [Server thread/INFO]: [STDOUT]: Encoded SpellRegistry size (with package overhead): 61994 bytes (in 7 string chunks with the size of 10000)
-[23:00:16] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[23:00:16] [Server thread/INFO]: Loading properties
-[23:00:16] [Server thread/INFO]: Default game type: SURVIVAL
-[23:00:16] [Server thread/INFO]: Generating keypair
-[23:00:16] [pool-3-thread-1/INFO]: Reloading server config for easyanvils
-[23:00:16] [pool-3-thread-1/INFO]: Reloading server config for easymagic
-[23:00:16] [pool-3-thread-1/INFO]: Reloading server config for enchantinginfuser
-[23:00:16] [pool-3-thread-1/INFO]: Reloading server config for magnumtorch
-[23:00:16] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:00:16] [Server thread/INFO]: Using epoll channel type
-[23:00:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:00:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[23:00:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:00:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:00:16] [Server thread/INFO]: Preparing level "world"
-[23:00:16] [Server thread/INFO]: Enforcing safe world random access
-[23:00:21] [Server thread/INFO]: Ignoring world 'ad_astra:earth_orbit'; unknown dimension type: ad_astra:earth_orbit
-[23:00:21] [Server thread/INFO]: Ignoring world 'ad_astra:mars_orbit'; unknown dimension type: ad_astra:mars_orbit
-[23:00:21] [Server thread/INFO]: Ignoring world 'ad_astra:venus_orbit'; unknown dimension type: ad_astra:venus_orbit
-[23:00:21] [Server thread/INFO]: Ignoring world 'ad_astra:moon_orbit'; unknown dimension type: ad_astra:moon_orbit
-[23:00:21] [Server thread/INFO]: Ignoring world 'ad_astra:mercury_orbit'; unknown dimension type: ad_astra:mercury_orbit
-[23:00:21] [Server thread/INFO]: Ignoring world 'ad_astra:glacio'; unknown dimension type: ad_astra:glacio
-[23:00:21] [Server thread/INFO]: Ignoring world 'iceandfire:dread_land'; unknown dimension type: iceandfire:dread_land
-[23:00:21] [Server thread/INFO]: Ignoring world 'ad_astra:mercury'; unknown dimension type: ad_astra:mercury
-[23:00:21] [Server thread/INFO]: Ignoring world 'ad_astra:mars'; unknown dimension type: ad_astra:mars
-[23:00:21] [Server thread/INFO]: Ignoring world 'ad_astra:venus'; unknown dimension type: ad_astra:venus
-[23:00:21] [Server thread/INFO]: Ignoring world 'ad_astra:glacio_orbit'; unknown dimension type: ad_astra:glacio_orbit
-[23:00:21] [Server thread/INFO]: Ignoring world 'ad_astra:moon'; unknown dimension type: ad_astra:moon
-[23:00:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:00:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:00:22] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:00:22] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[23:00:23] [Server thread/INFO]: Preparing spawn area: 0%
-[23:00:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:00:24] [Worker-Main-3/INFO]: Preparing spawn area: 4%
-[23:00:24] [Server thread/INFO]: Haema's fiddling with Bewitchment's vampires :D
-[23:00:24] [Worker-Main-1/INFO]: Preparing spawn area: 4%
-[23:00:25] [Worker-Main-2/INFO]: Preparing spawn area: 6%
-[23:00:25] [Worker-Main-2/INFO]: Preparing spawn area: 11%
-[23:00:26] [Worker-Main-3/INFO]: Preparing spawn area: 25%
-[23:00:26] [Worker-Main-1/INFO]: Preparing spawn area: 70%
-[23:00:26] [Server thread/INFO]: Time elapsed: 5367 ms
-[23:00:26] [Server thread/INFO]: Done (10.497s)! For help, type "help"
-[23:00:26] [Server thread/WARN]: Dedicated server took 38.153 seconds to load
-[23:00:27] [Server thread/INFO]: Start loading plugin from Ice And Fire Community Edition
-[23:00:27] [Server thread/INFO]: Start loading plugin from Jade
-[23:00:27] [Server thread/INFO]: Start loading plugin from Jade
-[23:00:27] [Server thread/INFO]: Start loading plugin from Jade
-[23:00:27] [Server thread/INFO]: Start loading plugin from Polymer (Core)
-[23:00:27] [Server thread/INFO]: Registered synced player tracker system: argonauts
-[23:00:27] [Server thread/INFO]: Registered synced player tracker system: argonauts
-[23:00:27] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[23:00:27] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
-[23:02:07] [Server thread/INFO]: Stopping the server
-[23:02:07] [Server thread/INFO]: Stopping server
-[23:02:07] [Server thread/INFO]: Saving players
-[23:02:07] [Server thread/INFO]: Saving worlds
-[23:02:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:02:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
-[23:02:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:02:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
-[23:02:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
-[23:02:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:02:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
-[23:02:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
-[23:02:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
-[23:02:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/iceandfire:dread_land
-[23:02:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
-[23:02:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
-[23:02:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
-[23:02:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
-[23:02:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
-[23:02:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:02:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
-[23:02:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:02:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
-[23:02:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
-[23:02:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:02:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
-[23:02:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
-[23:02:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
-[23:02:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (dread_land): All chunks are saved
-[23:02:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
-[23:02:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (mars): All chunks are saved
-[23:02:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (venus): All chunks are saved
-[23:02:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
-[23:02:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (moon): All chunks are saved
-[23:02:08] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[23:02:08] [Server thread/INFO]: Unloading server configs...
-[23:02:08] [Server thread/INFO]: Sending config unload event for backpacked.server.toml
-[23:02:08] [Server thread/INFO]: Finished unloading server configs
+[16:49:55] [main/INFO]: Loaded 50 recipes
+[16:49:55] [main/INFO]: Loaded 4583 advancements
+[16:49:55] [main/INFO]: Finished loading powers from data files. Registry contains 81 powers.
+[16:49:55] [main/INFO]: Finished loading origins from data files. Registry contains 12 origins.
+[16:49:55] [main/INFO]: Trying to read layer file: origins:origin
+[16:49:55] [main/INFO]: Trying to read layer file: origins:origin
+[16:49:55] [main/INFO]: Finished loading origin layers from data files. Read 1 layers.
+[16:49:55] [main/INFO]: Ice And Fire common config version match.
+[16:49:55] [main/INFO]: Successfully reload 1 server config(s).
+[16:49:55] [main/INFO]: Reloading config...
+[16:49:56] [main/INFO]: [REI] ########################################
+[16:49:56] [main/INFO]: [REI] REIPlugin starting main-reload for START.
+[16:49:56] [main/INFO]: [REI] Plugins (4):
+[16:49:56] [main/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[16:49:56] [main/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[16:49:56] [main/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[16:49:56] [main/INFO]: [REI]  - (0.00) ServerREIPlugin of ServerREIPlugin [farmersdelight]
+[16:49:56] [main/INFO]: [REI] ########################################
+[16:49:56] [main/INFO]: [REI] ========================================
+[16:49:56] [main/INFO]: [REI] REIServerPlugin starting main-reload for START.
+[16:49:56] [main/INFO]: [REI] Plugins (4):
+[16:49:56] [main/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[16:49:56] [main/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[16:49:56] [main/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[16:49:56] [main/INFO]: [REI]  - (0.00) ServerREIPlugin of ServerREIPlugin [farmersdelight]
+[16:49:56] [main/INFO]: [REI] ========================================
+[16:49:56] [main/INFO]: [REI] REIPlugin finished post-reload for START in 1.745 ms, totaling 31.41 ms.
+[16:49:56] [main/INFO]: [REI] REIServerPlugin finished post-reload for START in 642.7 μs, totaling 4.726 ms.
+[16:49:56] [main/INFO]: [REI] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[16:49:56] [main/INFO]: [REI] REIPlugin starting main-reload for END.
+[16:49:56] [main/INFO]: [REI] Plugins (4):
+[16:49:56] [main/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[16:49:56] [main/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[16:49:56] [main/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[16:49:56] [main/INFO]: [REI]  - (0.00) ServerREIPlugin of ServerREIPlugin [farmersdelight]
+[16:49:56] [main/INFO]: [REI] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[16:49:56] [main/INFO]: [REI] ########################################
+[16:49:56] [main/INFO]: [REI] REIServerPlugin starting main-reload for END.
+[16:49:56] [main/INFO]: [REI] Plugins (4):
+[16:49:56] [main/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[16:49:56] [main/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[16:49:56] [main/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[16:49:56] [main/INFO]: [REI]  - (0.00) ServerREIPlugin of ServerREIPlugin [farmersdelight]
+[16:49:56] [main/INFO]: [REI] ########################################
+[16:49:56] [main/INFO]: [REI] REIPlugin finished post-reload for END in 1.632 ms, totaling 35.44 ms.
+[16:49:56] [main/INFO]: [REI] REIServerPlugin finished post-reload for END in 906.9 μs, totaling 7.821 ms.
+[16:49:56] [main/INFO]: [Fabric Seasons] Successfully loaded 15 custom crop configs.
+[16:49:56] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 58 translation keys
+[16:49:56] [main/INFO]: Loaded 144 recipes
+[16:49:56] [main/INFO]: Loaded 0 global power sets.
+[16:49:56] [main/WARN]: Initial datapack load took 4.087 s
+[16:49:56] [main/INFO]: Applied 1825 biome modifications to 117 of 117 new biomes in 228.9 ms
+[16:49:56] [Server thread/INFO]: Loading server config for easyanvils
+[16:49:56] [Server thread/INFO]: Loading server config for easymagic
+[16:49:56] [Server thread/INFO]: Loading server config for enchantinginfuser
+[16:49:56] [Server thread/INFO]: Loading server config for magnumtorch
+[16:49:56] [Server thread/INFO]: Loading server config for puzzlesapi
+[16:49:56] [Server thread/INFO]: Loading server configs...
+[16:49:57] [Server thread/INFO]: [STDOUT]: Encoded SpellRegistry size (with package overhead): 61994 bytes (in 7 string chunks with the size of 10000)
+[16:49:57] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[16:49:57] [Server thread/INFO]: Loading properties
+[16:49:57] [Server thread/INFO]: Default game type: SURVIVAL
+[16:49:57] [Server thread/INFO]: Generating keypair
+[16:49:57] [pool-3-thread-1/INFO]: Reloading server config for easyanvils
+[16:49:57] [pool-3-thread-1/INFO]: Reloading server config for easymagic
+[16:49:57] [pool-3-thread-1/INFO]: Reloading server config for enchantinginfuser
+[16:49:57] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:49:57] [pool-3-thread-1/INFO]: Reloading server config for magnumtorch
+[16:49:57] [pool-3-thread-1/INFO]: Reloading server config for puzzlesapi
+[16:49:57] [Server thread/INFO]: Using epoll channel type
+[16:49:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:49:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:49:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:49:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:49:57] [Server thread/INFO]: Preparing level "world"
+[16:49:57] [Server thread/INFO]: Enforcing safe world random access
+[16:50:07] [Server thread/INFO]: Ignoring world 'ad_astra:glacio_orbit'; unknown dimension type: ad_astra:glacio_orbit
+[16:50:07] [Server thread/INFO]: Ignoring world 'ad_astra:moon_orbit'; unknown dimension type: ad_astra:moon_orbit
+[16:50:07] [Server thread/INFO]: Ignoring world 'ad_astra:mercury_orbit'; unknown dimension type: ad_astra:mercury_orbit
+[16:50:07] [Server thread/INFO]: Ignoring world 'iceandfire:dread_land'; unknown dimension type: iceandfire:dread_land
+[16:50:07] [Server thread/INFO]: Ignoring world 'ad_astra:venus_orbit'; unknown dimension type: ad_astra:venus_orbit
+[16:50:07] [Server thread/INFO]: Ignoring world 'ad_astra:mars_orbit'; unknown dimension type: ad_astra:mars_orbit
+[16:50:07] [Server thread/INFO]: Ignoring world 'ad_astra:earth_orbit'; unknown dimension type: ad_astra:earth_orbit
+[16:50:07] [Server thread/INFO]: Ignoring world 'ad_astra:glacio'; unknown dimension type: ad_astra:glacio
+[16:50:07] [Server thread/INFO]: Ignoring world 'ad_astra:moon'; unknown dimension type: ad_astra:moon
+[16:50:07] [Server thread/INFO]: Ignoring world 'ad_astra:mars'; unknown dimension type: ad_astra:mars
+[16:50:07] [Server thread/INFO]: Ignoring world 'ad_astra:venus'; unknown dimension type: ad_astra:venus
+[16:50:07] [Server thread/INFO]: Ignoring world 'ad_astra:mercury'; unknown dimension type: ad_astra:mercury
+[16:50:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:50:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:50:07] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:50:08] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:50:08] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:50:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:50:09] [Worker-Main-2/INFO]: Haema's fiddling with Bewitchment's vampires :D
+[16:50:09] [Worker-Main-1/INFO]: Preparing spawn area: 1%
+[16:50:10] [Worker-Main-2/INFO]: Preparing spawn area: 1%
+[16:50:10] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[16:50:11] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[16:50:11] [Worker-Main-2/INFO]: Preparing spawn area: 3%
+[16:50:12] [Worker-Main-2/INFO]: Preparing spawn area: 4%
+[16:50:12] [Worker-Main-2/INFO]: Preparing spawn area: 5%
+[16:50:13] [Worker-Main-3/INFO]: Preparing spawn area: 6%
+[16:50:13] [Worker-Main-1/INFO]: Preparing spawn area: 7%
+[16:50:14] [Worker-Main-1/INFO]: Preparing spawn area: 9%
+[16:50:14] [Worker-Main-1/INFO]: Preparing spawn area: 10%
+[16:50:15] [Worker-Main-1/INFO]: Preparing spawn area: 12%
+[16:50:15] [Worker-Main-3/INFO]: Preparing spawn area: 14%
+[16:50:16] [Worker-Main-2/INFO]: Preparing spawn area: 15%
+[16:50:16] [Worker-Main-1/INFO]: Preparing spawn area: 17%
+[16:50:17] [Worker-Main-3/INFO]: Preparing spawn area: 20%
+[16:50:18] [Worker-Main-3/INFO]: Preparing spawn area: 21%
+[16:50:18] [Worker-Main-3/INFO]: Preparing spawn area: 21%
+[16:50:18] [Worker-Main-2/INFO]: Preparing spawn area: 22%
+[16:50:19] [Worker-Main-1/INFO]: Preparing spawn area: 23%
+[16:50:19] [Worker-Main-1/INFO]: Preparing spawn area: 25%
+[16:50:20] [Worker-Main-1/INFO]: Preparing spawn area: 27%
+[16:50:20] [Worker-Main-3/INFO]: Preparing spawn area: 30%
+[16:50:21] [Worker-Main-3/INFO]: Preparing spawn area: 32%
+[16:50:21] [Worker-Main-3/INFO]: Preparing spawn area: 33%
+[16:50:22] [Worker-Main-2/INFO]: Preparing spawn area: 36%
+[16:50:22] [Worker-Main-3/INFO]: Preparing spawn area: 39%
+[16:50:23] [Worker-Main-1/INFO]: Preparing spawn area: 41%
+[16:50:23] [Worker-Main-2/INFO]: Preparing spawn area: 42%
+[16:50:24] [Worker-Main-1/INFO]: Preparing spawn area: 44%
+[16:50:24] [Worker-Main-3/INFO]: Preparing spawn area: 47%
+[16:50:25] [Worker-Main-1/INFO]: Preparing spawn area: 49%
+[16:50:25] [Worker-Main-3/INFO]: Preparing spawn area: 52%
+[16:50:26] [Worker-Main-3/INFO]: Preparing spawn area: 55%
+[16:50:26] [Worker-Main-2/INFO]: Preparing spawn area: 58%
+[16:50:27] [Worker-Main-2/INFO]: Preparing spawn area: 60%
+[16:50:27] [Worker-Main-2/INFO]: Preparing spawn area: 63%
+[16:50:28] [Worker-Main-2/INFO]: Preparing spawn area: 67%
+[16:50:28] [Worker-Main-3/INFO]: Preparing spawn area: 69%
+[16:50:29] [Worker-Main-2/INFO]: Preparing spawn area: 71%
+[16:50:29] [Worker-Main-1/INFO]: Preparing spawn area: 73%
+[16:50:30] [Worker-Main-2/INFO]: Preparing spawn area: 78%
+[16:50:30] [Worker-Main-2/INFO]: Preparing spawn area: 80%
+[16:50:31] [Worker-Main-3/INFO]: Preparing spawn area: 84%
+[16:50:31] [Worker-Main-3/INFO]: Preparing spawn area: 87%
+[16:50:32] [Worker-Main-2/INFO]: Preparing spawn area: 90%
+[16:50:32] [Worker-Main-2/INFO]: Preparing spawn area: 93%
+[16:50:33] [Worker-Main-2/INFO]: Preparing spawn area: 97%
+[16:50:33] [Server thread/INFO]: Time elapsed: 26421 ms
+[16:50:33] [Server thread/INFO]: Done (36.307s)! For help, type "help"
+[16:50:33] [Server thread/WARN]: Dedicated server took 77.682 seconds to load
+[16:50:33] [Server thread/INFO]: Start loading plugin from Ice And Fire Community Edition
+[16:50:33] [Server thread/INFO]: Start loading plugin from Jade
+[16:50:33] [Server thread/INFO]: Start loading plugin from Jade
+[16:50:33] [Server thread/INFO]: Start loading plugin from Jade
+[16:50:33] [Server thread/INFO]: Start loading plugin from Polymer (Core)
+[16:50:33] [Server thread/INFO]: Registered synced player tracker system: argonauts
+[16:50:33] [Server thread/INFO]: Registered synced player tracker system: argonauts
+[16:50:33] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[16:50:33] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[16:50:34] [Worker-Main-2/INFO]: Instantiating Mojang DFU
+[16:50:34] [Worker-Main-1/WARN]: Failed to create invalid feature betterendisland:pillar_initial_-4
+[16:50:34] [Worker-Main-1/ERROR]: Unable to place top spike at class_2338{x=0, y=60, z=0}. This shouldn't happen!
+[16:50:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
+[16:50:36] [Worker-Main-3/WARN]: Failed to create invalid feature betterendisland:pillar_initial_11
+[16:50:36] [Worker-Main-3/ERROR]: Unable to place top spike at class_2338{x=-19, y=60, z=59}. This shouldn't happen!
+[16:50:44] [Server thread/INFO]: [Handshake] Sending channel query
+[16:50:45] [Netty Epoll Server IO #4/INFO]: [Handshake] Receiving client channels
+[16:50:45] [Netty Epoll Server IO #4/INFO]: [Handshake] Handshake completed successfully
+[16:50:46] [Server thread/INFO]: Valentin13145[/127.97.228.155:51953] logged in with entity id 299 at (1.5, 100.0, -2.5)
+[16:50:46] [Server thread/INFO]: Syncing config to Valentin13145 (0bcd1a90-d47d-3b16-85aa-982ff9cae0d4)
+[16:50:46] [Server thread/INFO]: Valentin13145 joined the game
+[16:50:47] [Server thread/INFO]: Valentin13145 has made the advancement [Ice and Fire]
+[16:50:50] [Server thread/INFO]: [STDOUT]: Finalizing fluid item registration
+[16:50:50] [Server thread/INFO]: [STDOUT]: Finalizing energy item registration
+[16:51:02] [Server thread/INFO]: Valentin13145 has made the advancement [I REJECT MY HUMANITY!]
+[16:51:03] [Server thread/INFO]: Found a vampire-safe spawn, 25.59785147234041 blocks from regular spawn.
+[16:51:03] [Server thread/INFO]: Player literal{Valentin13145} chose Origin: haema:vampire, for layer: origins:origin
+[16:51:07] [Server thread/INFO]: [Valentin13145: Set own game mode to Creative Mode]
+[16:51:10] [Server thread/INFO]: Valentin13145 has made the advancement [Fruits of the Field]
+[16:51:46] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 124 chunks (0.01%), ETA: 0:36:23, Rate: 716.8 cps, Current: 14, 0
+[16:51:47] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 147 chunks (0.01%), ETA: 3:41:04, Rate: 118.0 cps, Current: 10, 13
+[16:51:48] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 205 chunks (0.01%), ETA: 4:50:11, Rate: 89.9 cps, Current: 5, 13
+[16:51:49] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 228 chunks (0.01%), ETA: 6:22:50, Rate: 68.1 cps, Current: 1, 18
+[16:51:50] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 251 chunks (0.02%), ETA: 7:32:04, Rate: 57.7 cps, Current: 15, 0
+[16:51:51] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 280 chunks (0.02%), ETA: 8:19:29, Rate: 52.2 cps, Current: 2, 23
+[16:51:52] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 301 chunks (0.02%), ETA: 9:12:50, Rate: 47.2 cps, Current: 2, 27
+[16:51:53] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 318 chunks (0.02%), ETA: 10:06:01, Rate: 43.0 cps, Current: 5, 29
+[16:51:54] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 364 chunks (0.02%), ETA: 10:05:21, Rate: 43.1 cps, Current: 8, 29
+[16:51:56] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 386 chunks (0.02%), ETA: 10:57:15, Rate: 39.7 cps, Current: 11, 30
+[16:51:57] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 406 chunks (0.03%), ETA: 11:35:12, Rate: 37.5 cps, Current: 14, 23
+[16:51:58] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 479 chunks (0.03%), ETA: 10:45:24, Rate: 40.4 cps, Current: 17, 17
+[16:51:59] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 509 chunks (0.03%), ETA: 10:58:41, Rate: 39.6 cps, Current: 22, 19
+[16:52:00] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 554 chunks (0.04%), ETA: 10:55:03, Rate: 39.8 cps, Current: 16, 29
+[16:52:01] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 594 chunks (0.04%), ETA: 10:55:12, Rate: 39.8 cps, Current: 22, 28
+[16:52:02] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 624 chunks (0.04%), ETA: 11:05:34, Rate: 39.2 cps, Current: 26, 27
+[16:52:03] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 636 chunks (0.04%), ETA: 11:42:56, Rate: 37.1 cps, Current: 15, 31
+[16:52:04] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 687 chunks (0.04%), ETA: 11:29:01, Rate: 37.8 cps, Current: 24, 21
+[16:52:05] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 726 chunks (0.05%), ETA: 11:28:39, Rate: 37.9 cps, Current: 29, 16
+[16:52:06] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 749 chunks (0.05%), ETA: 11:43:19, Rate: 37.1 cps, Current: 29, 10
+[16:52:07] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 771 chunks (0.05%), ETA: 11:57:13, Rate: 36.3 cps, Current: 24, 13
+[16:52:08] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=-4, y=-56, z=103}
+[16:52:08] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=2, y=-56, z=104}
+[16:52:08] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=2, y=-57, z=104}
+[16:52:08] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=1, y=-57, z=105}
+[16:52:08] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 824 chunks (0.05%), ETA: 11:44:19, Rate: 37.0 cps, Current: 16, 11
+[16:52:09] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 866 chunks (0.06%), ETA: 11:40:51, Rate: 37.2 cps, Current: 19, 7
+[16:52:10] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 908 chunks (0.06%), ETA: 11:37:59, Rate: 37.3 cps, Current: 22, 4
+[16:52:11] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 949 chunks (0.06%), ETA: 11:35:23, Rate: 37.5 cps, Current: 27, 7
+[16:52:12] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 981 chunks (0.06%), ETA: 11:44:01, Rate: 37.0 cps, Current: 31, 28
+[16:52:13] [Server thread/INFO]: Valentin13145 has made the advancement [Quenching Thirst]
+[16:52:13] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 1023 chunks (0.07%), ETA: 11:44:24, Rate: 37.0 cps, Current: 34, 5
+[16:52:15] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 1052 chunks (0.07%), ETA: 11:52:10, Rate: 36.6 cps, Current: 40, 1
+[16:52:16] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 1067 chunks (0.07%), ETA: 12:06:54, Rate: 35.9 cps, Current: 21, 0
+[16:52:17] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 1113 chunks (0.07%), ETA: 13:17:01, Rate: 32.7 cps, Current: 37, 7
+[16:52:18] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 1143 chunks (0.07%), ETA: 13:40:19, Rate: 31.8 cps, Current: 45, 11
+[16:52:19] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 1168 chunks (0.07%), ETA: 13:37:58, Rate: 31.9 cps, Current: 42, 12
+[16:52:20] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 1237 chunks (0.08%), ETA: 13:01:35, Rate: 33.3 cps, Current: 34, 0
+[16:52:21] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 1277 chunks (0.08%), ETA: 12:54:07, Rate: 33.7 cps, Current: 36, 20
+[16:52:22] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 1319 chunks (0.08%), ETA: 12:39:32, Rate: 34.3 cps, Current: 32, 29
+[16:52:23] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 1360 chunks (0.09%), ETA: 12:22:08, Rate: 35.1 cps, Current: 38, 27
+[16:52:24] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 1397 chunks (0.09%), ETA: 12:27:17, Rate: 34.9 cps, Current: 42, 25
+[16:52:25] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 1428 chunks (0.09%), ETA: 12:14:35, Rate: 35.5 cps, Current: 46, 22
+[16:52:26] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 1507 chunks (0.10%), ETA: 11:33:20, Rate: 37.6 cps, Current: 47, 17
+[16:52:27] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 1523 chunks (0.10%), ETA: 12:10:38, Rate: 35.7 cps, Current: 47, 19
+[16:52:28] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 1579 chunks (0.10%), ETA: 11:53:41, Rate: 36.5 cps, Current: 48, 29
+[16:52:29] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 1621 chunks (0.10%), ETA: 11:56:47, Rate: 36.4 cps, Current: 34, 31
+[16:52:30] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 1659 chunks (0.11%), ETA: 11:59:36, Rate: 36.2 cps, Current: 44, 31
+[16:52:31] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 1693 chunks (0.11%), ETA: 11:56:52, Rate: 36.3 cps, Current: 55, 23
+[16:52:32] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 1742 chunks (0.11%), ETA: 11:29:12, Rate: 37.8 cps, Current: 60, 17
+[16:52:33] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 1770 chunks (0.11%), ETA: 11:45:28, Rate: 36.9 cps, Current: 62, 12
+[16:52:34] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 1812 chunks (0.12%), ETA: 11:43:33, Rate: 37.0 cps, Current: 56, 15
+[16:52:36] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 1882 chunks (0.12%), ETA: 11:21:20, Rate: 38.2 cps, Current: 54, 8
+[16:52:37] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 1934 chunks (0.12%), ETA: 11:02:41, Rate: 39.3 cps, Current: 54, 3
+[16:52:38] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 1981 chunks (0.13%), ETA: 11:06:02, Rate: 39.1 cps, Current: 61, 8
+[16:52:39] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2005 chunks (0.13%), ETA: 11:17:52, Rate: 38.4 cps, Current: 63, 28
+[16:52:40] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2025 chunks (0.13%), ETA: 11:30:41, Rate: 37.7 cps, Current: 33, -29
+[16:52:41] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2049 chunks (0.13%), ETA: 11:42:24, Rate: 37.1 cps, Current: 37, -27
+[16:52:42] [Worker-Main-1/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2084 chunks (0.13%), ETA: 11:36:42, Rate: 37.4 cps, Current: 63, 5
+[16:52:43] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2110 chunks (0.13%), ETA: 11:44:01, Rate: 37.0 cps, Current: 39, -27
+[16:52:44] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2133 chunks (0.14%), ETA: 11:45:56, Rate: 36.9 cps, Current: 32, -26
+[16:52:45] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2171 chunks (0.14%), ETA: 11:31:50, Rate: 37.6 cps, Current: 40, -25
+[16:52:46] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2218 chunks (0.14%), ETA: 11:31:14, Rate: 37.7 cps, Current: 39, -24
+[16:52:47] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2260 chunks (0.14%), ETA: 11:25:13, Rate: 38.0 cps, Current: 40, -32
+[16:52:48] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2295 chunks (0.15%), ETA: 11:22:04, Rate: 38.2 cps, Current: 37, -12
+[16:52:49] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2325 chunks (0.15%), ETA: 11:45:38, Rate: 36.9 cps, Current: 32, -11
+[16:52:50] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2358 chunks (0.15%), ETA: 11:49:00, Rate: 36.7 cps, Current: 47, -24
+[16:52:51] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2408 chunks (0.15%), ETA: 11:43:14, Rate: 37.0 cps, Current: 39, -1
+[16:52:53] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2458 chunks (0.16%), ETA: 11:42:16, Rate: 37.1 cps, Current: 44, -12
+[16:52:54] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2528 chunks (0.16%), ETA: 11:21:50, Rate: 38.2 cps, Current: 46, -10
+[16:52:55] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2557 chunks (0.16%), ETA: 11:23:11, Rate: 38.1 cps, Current: 47, -12
+[16:52:56] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2597 chunks (0.17%), ETA: 11:48:04, Rate: 36.8 cps, Current: 47, -5
+[16:52:57] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2658 chunks (0.17%), ETA: 11:20:35, Rate: 38.3 cps, Current: 55, -5
+[16:52:58] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2712 chunks (0.17%), ETA: 11:21:13, Rate: 38.2 cps, Current: 56, -8
+[16:52:59] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2767 chunks (0.18%), ETA: 11:12:21, Rate: 38.7 cps, Current: 60, -13
+[16:53:00] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2797 chunks (0.18%), ETA: 11:16:24, Rate: 38.5 cps, Current: 61, -19
+[16:53:01] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2841 chunks (0.18%), ETA: 11:13:52, Rate: 38.6 cps, Current: 55, -19
+[16:53:02] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2913 chunks (0.19%), ETA: 11:00:31, Rate: 39.4 cps, Current: 51, -25
+[16:53:03] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2955 chunks (0.19%), ETA: 10:51:54, Rate: 39.9 cps, Current: 53, -28
+[16:53:04] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 3006 chunks (0.19%), ETA: 10:47:12, Rate: 40.2 cps, Current: 61, -24
+[16:53:05] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 3031 chunks (0.19%), ETA: 11:07:30, Rate: 39.0 cps, Current: 1, -31
+[16:53:06] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 3049 chunks (0.19%), ETA: 11:28:30, Rate: 37.8 cps, Current: 63, -14
+[16:53:07] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 3070 chunks (0.20%), ETA: 11:45:01, Rate: 36.9 cps, Current: 6, -26
+[16:53:08] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 3105 chunks (0.20%), ETA: 11:36:15, Rate: 37.4 cps, Current: 10, -30
+[16:53:09] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 3131 chunks (0.20%), ETA: 11:33:24, Rate: 37.5 cps, Current: 54, -32
+[16:53:10] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 3174 chunks (0.20%), ETA: 11:20:41, Rate: 38.2 cps, Current: 12, -24
+[16:53:11] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 3259 chunks (0.21%), ETA: 10:51:28, Rate: 40.0 cps, Current: 3, -21
+[16:53:12] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 3531 chunks (0.23%), ETA: 8:58:14, Rate: 48.4 cps, Current: 14, -10
+[16:53:14] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 3557 chunks (0.23%), ETA: 9:02:24, Rate: 48.0 cps, Current: 11, -32
+[16:53:15] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 3600 chunks (0.23%), ETA: 9:00:30, Rate: 48.1 cps, Current: 16, -11
+[16:53:16] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 3670 chunks (0.23%), ETA: 8:54:00, Rate: 48.7 cps, Current: 21, -10
+[16:53:17] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 3747 chunks (0.24%), ETA: 8:39:36, Rate: 50.1 cps, Current: 25, -7
+[16:53:18] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 3819 chunks (0.24%), ETA: 8:24:24, Rate: 51.6 cps, Current: 23, -15
+[16:53:19] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 3872 chunks (0.25%), ETA: 8:16:04, Rate: 52.4 cps, Current: 29, -21
+[16:53:20] [Worker-Main-2/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 3938 chunks (0.25%), ETA: 8:05:34, Rate: 53.6 cps, Current: 20, -23
+[16:53:21] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4005 chunks (0.26%), ETA: 7:59:42, Rate: 54.2 cps, Current: 24, -24
+[16:53:23] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4053 chunks (0.26%), ETA: 8:08:30, Rate: 53.3 cps, Current: 30, -27
+[16:53:24] [Worker-Main-1/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4081 chunks (0.26%), ETA: 8:19:45, Rate: 52.1 cps, Current: -30, -27
+[16:53:25] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4109 chunks (0.26%), ETA: 8:23:09, Rate: 51.7 cps, Current: -28, -30
+[16:53:26] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4136 chunks (0.26%), ETA: 8:35:18, Rate: 50.5 cps, Current: -20, -31
+[16:53:27] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4181 chunks (0.27%), ETA: 8:40:30, Rate: 50.0 cps, Current: -18, -25
+[16:53:28] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4203 chunks (0.27%), ETA: 8:51:48, Rate: 48.9 cps, Current: -31, -32
+[16:53:29] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4234 chunks (0.27%), ETA: 8:51:36, Rate: 48.9 cps, Current: -21, -21
+[16:53:30] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4270 chunks (0.27%), ETA: 8:52:09, Rate: 48.9 cps, Current: -27, -18
+[16:53:31] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4308 chunks (0.28%), ETA: 9:05:52, Rate: 47.7 cps, Current: -29, -18
+[16:53:32] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4339 chunks (0.28%), ETA: 9:11:17, Rate: 47.2 cps, Current: -25, -14
+[16:53:33] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4360 chunks (0.28%), ETA: 9:25:22, Rate: 46.0 cps, Current: -29, -13
+[16:53:34] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4382 chunks (0.28%), ETA: 9:24:35, Rate: 46.1 cps, Current: -30, -8
+[16:53:36] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4397 chunks (0.28%), ETA: 9:25:42, Rate: 46.0 cps, Current: -30, -3
+[16:53:37] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4427 chunks (0.28%), ETA: 9:21:55, Rate: 46.3 cps, Current: -27, -7
+[16:53:38] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4459 chunks (0.28%), ETA: 9:23:35, Rate: 46.1 cps, Current: -23, -3
+[16:53:39] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4483 chunks (0.29%), ETA: 9:23:31, Rate: 46.2 cps, Current: -19, -4
+[16:53:40] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4531 chunks (0.29%), ETA: 9:21:33, Rate: 46.3 cps, Current: -21, -12
+[16:53:41] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4840 chunks (0.31%), ETA: 8:02:39, Rate: 53.9 cps, Current: -1, -21
+[16:53:42] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4890 chunks (0.31%), ETA: 9:09:50, Rate: 47.3 cps, Current: -9, -19
+[16:53:43] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4955 chunks (0.32%), ETA: 9:02:21, Rate: 47.9 cps, Current: -10, -25
+[16:53:44] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 5017 chunks (0.32%), ETA: 8:54:22, Rate: 48.7 cps, Current: -9, -25
+[16:53:45] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 5090 chunks (0.33%), ETA: 8:51:06, Rate: 49.0 cps, Current: -30, -1
+[16:53:46] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 5106 chunks (0.33%), ETA: 9:18:09, Rate: 46.6 cps, Current: -28, 4
+[16:53:47] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 5152 chunks (0.33%), ETA: 9:29:01, Rate: 45.7 cps, Current: -24, 3
+[16:53:48] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 5187 chunks (0.33%), ETA: 9:40:24, Rate: 44.8 cps, Current: -18, 6
+[16:53:49] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 5218 chunks (0.33%), ETA: 9:58:09, Rate: 43.5 cps, Current: -20, 8
+[16:53:50] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 5245 chunks (0.34%), ETA: 10:18:57, Rate: 42.0 cps, Current: -17, 13
+[16:53:51] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 5276 chunks (0.34%), ETA: 10:15:49, Rate: 42.2 cps, Current: -26, 12
+[16:53:53] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 5316 chunks (0.34%), ETA: 10:17:13, Rate: 42.1 cps, Current: -30, 11
+[16:53:54] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 5334 chunks (0.34%), ETA: 10:24:54, Rate: 41.6 cps, Current: -11, -32
+[16:53:55] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 5368 chunks (0.34%), ETA: 10:21:16, Rate: 41.8 cps, Current: -27, 18
+[16:53:57] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 5396 chunks (0.34%), ETA: 10:29:03, Rate: 41.3 cps, Current: -31, 23
+[16:53:58] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 5413 chunks (0.35%), ETA: 10:31:27, Rate: 41.2 cps, Current: -22, 15
+[16:53:59] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 5443 chunks (0.35%), ETA: 10:31:34, Rate: 41.2 cps, Current: -27, 30
+[16:54:00] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 5485 chunks (0.35%), ETA: 10:28:48, Rate: 41.3 cps, Current: -24, 29
+[16:54:01] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 5514 chunks (0.35%), ETA: 10:32:19, Rate: 41.1 cps, Current: -18, 29
+[16:54:02] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 5571 chunks (0.36%), ETA: 10:17:02, Rate: 42.1 cps, Current: -23, 16
+[16:54:03] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 5604 chunks (0.36%), ETA: 10:10:08, Rate: 42.6 cps, Current: -13, 16
+[16:54:04] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 5632 chunks (0.36%), ETA: 10:07:38, Rate: 42.8 cps, Current: -11, 21
+[16:54:05] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 5683 chunks (0.36%), ETA: 9:50:26, Rate: 44.0 cps, Current: -13, 23
+[16:54:06] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 5723 chunks (0.37%), ETA: 9:46:32, Rate: 44.3 cps, Current: -9, 23
+[16:54:07] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 5783 chunks (0.37%), ETA: 9:34:34, Rate: 45.2 cps, Current: -7, 30
+[16:54:08] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 6104 chunks (0.39%), ETA: 7:49:47, Rate: 55.3 cps, Current: -14, 1
+[16:54:09] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 6121 chunks (0.39%), ETA: 8:00:57, Rate: 54.0 cps, Current: -31, 35
+[16:54:10] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 6148 chunks (0.39%), ETA: 9:43:36, Rate: 44.5 cps, Current: -26, 35
+[16:54:11] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 6198 chunks (0.40%), ETA: 9:43:31, Rate: 44.5 cps, Current: -22, 35
+[16:54:12] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 6233 chunks (0.40%), ETA: 9:55:43, Rate: 43.6 cps, Current: -10, 31
+[16:54:13] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 6263 chunks (0.40%), ETA: 10:10:59, Rate: 42.5 cps, Current: -1, 31
+[16:54:14] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 6299 chunks (0.40%), ETA: 10:30:39, Rate: 41.2 cps, Current: -25, 39
+[16:54:15] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 6340 chunks (0.41%), ETA: 10:17:23, Rate: 42.1 cps, Current: -31, 40
+[16:54:16] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 6362 chunks (0.41%), ETA: 10:26:29, Rate: 41.5 cps, Current: -32, 39
+[16:54:17] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 6393 chunks (0.41%), ETA: 10:28:01, Rate: 41.4 cps, Current: -27, 52
+[16:54:18] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 6420 chunks (0.41%), ETA: 10:31:10, Rate: 41.2 cps, Current: -31, 55
+[16:54:20] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 6438 chunks (0.41%), ETA: 10:42:45, Rate: 40.4 cps, Current: -21, 47
+[16:54:21] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 6472 chunks (0.41%), ETA: 10:39:48, Rate: 40.6 cps, Current: -27, 58
+[16:54:22] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 6506 chunks (0.42%), ETA: 10:42:26, Rate: 40.4 cps, Current: -24, 58
+[16:54:23] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 6528 chunks (0.42%), ETA: 10:48:51, Rate: 40.0 cps, Current: -19, 61
+[16:54:24] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 6560 chunks (0.42%), ETA: 10:23:34, Rate: 41.7 cps, Current: -21, 55
+[16:54:25] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 6628 chunks (0.42%), ETA: 10:09:40, Rate: 42.6 cps, Current: -32, 56
+[16:54:26] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 6655 chunks (0.43%), ETA: 10:08:31, Rate: 42.7 cps, Current: -17, 53
+[16:54:27] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 6700 chunks (0.43%), ETA: 9:55:07, Rate: 43.6 cps, Current: -15, 61
+[16:54:28] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 6744 chunks (0.43%), ETA: 9:54:55, Rate: 43.7 cps, Current: -9, 57
+[16:54:29] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 6768 chunks (0.43%), ETA: 10:02:05, Rate: 43.1 cps, Current: -6, 59
+[16:54:29] [Server thread/INFO]: Valentin13145 has made the advancement [Monster Hunter]
+[16:54:30] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 6789 chunks (0.43%), ETA: 10:05:00, Rate: 42.9 cps, Current: -4, 60
+[16:54:31] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 6830 chunks (0.44%), ETA: 10:12:34, Rate: 42.4 cps, Current: -9, 53
+[16:54:32] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 6872 chunks (0.44%), ETA: 10:06:25, Rate: 42.8 cps, Current: -10, 48
+[16:54:33] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 6888 chunks (0.44%), ETA: 10:11:46, Rate: 42.4 cps, Current: -2, 44
+[16:54:34] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 6933 chunks (0.44%), ETA: 10:15:36, Rate: 42.2 cps, Current: -9, 47
+[16:54:35] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 6993 chunks (0.45%), ETA: 10:04:40, Rate: 42.9 cps, Current: -8, 41
+[16:54:36] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 7053 chunks (0.45%), ETA: 10:04:43, Rate: 42.9 cps, Current: -12, 35
+[16:54:37] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 7135 chunks (0.46%), ETA: 12:24:12, Rate: 34.9 cps, Current: -2, 32
+[16:54:38] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 7181 chunks (0.46%), ETA: 12:00:46, Rate: 36.0 cps, Current: -1, 49
+[16:54:40] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 7215 chunks (0.46%), ETA: 12:04:29, Rate: 35.8 cps, Current: 12, 32
+[16:54:41] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 7236 chunks (0.46%), ETA: 12:25:44, Rate: 34.8 cps, Current: 12, 35
+[16:54:42] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 7250 chunks (0.46%), ETA: 12:42:01, Rate: 34.1 cps, Current: 9, 37
+[16:54:43] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 7287 chunks (0.47%), ETA: 12:36:52, Rate: 34.3 cps, Current: 11, 41
+[16:54:44] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 7300 chunks (0.47%), ETA: 12:53:09, Rate: 33.6 cps, Current: 13, 44
+[16:54:45] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 7348 chunks (0.47%), ETA: 12:47:55, Rate: 33.8 cps, Current: 4, 40
+[16:54:46] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 7419 chunks (0.47%), ETA: 12:12:51, Rate: 35.4 cps, Current: 4, 50
+[16:54:47] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 7461 chunks (0.48%), ETA: 12:05:09, Rate: 35.8 cps, Current: 0, 59
+[16:54:48] [Server thread/INFO]: Valentin13145 has made the advancement [Whoosh]
+[16:54:48] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 7486 chunks (0.48%), ETA: 12:04:40, Rate: 35.8 cps, Current: 4, 60
+[16:54:49] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 7529 chunks (0.48%), ETA: 11:39:07, Rate: 37.1 cps, Current: 7, 60
+[16:54:50] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 7558 chunks (0.48%), ETA: 11:43:52, Rate: 36.9 cps, Current: 13, 61
+[16:54:51] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 7598 chunks (0.49%), ETA: 11:37:44, Rate: 37.2 cps, Current: 8, 53
+[16:54:52] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 7657 chunks (0.49%), ETA: 11:17:45, Rate: 38.3 cps, Current: 17, 49
+[16:54:53] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 7703 chunks (0.49%), ETA: 11:10:25, Rate: 38.7 cps, Current: 16, 55
+[16:54:54] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 7747 chunks (0.50%), ETA: 11:20:11, Rate: 38.2 cps, Current: 19, 62
+[16:54:55] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 7783 chunks (0.50%), ETA: 11:14:51, Rate: 38.5 cps, Current: 23, 60
+[16:54:56] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 7816 chunks (0.50%), ETA: 11:22:32, Rate: 38.0 cps, Current: 27, 59
+[16:54:57] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 7864 chunks (0.50%), ETA: 11:13:55, Rate: 38.5 cps, Current: 24, 52
+[16:54:59] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 7905 chunks (0.51%), ETA: 11:05:23, Rate: 39.0 cps, Current: 28, 47
+[16:55:00] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 7925 chunks (0.51%), ETA: 11:07:25, Rate: 38.9 cps, Current: 28, 44
+[16:55:01] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 7966 chunks (0.51%), ETA: 11:09:07, Rate: 38.8 cps, Current: 22, 46
+[16:55:02] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 8028 chunks (0.51%), ETA: 10:58:29, Rate: 39.4 cps, Current: 21, 37
+[16:55:03] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 8047 chunks (0.51%), ETA: 10:58:00, Rate: 39.4 cps, Current: 18, 38
+[16:55:04] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 8080 chunks (0.52%), ETA: 11:04:25, Rate: 39.1 cps, Current: 21, 33
+[16:55:05] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 8166 chunks (0.52%), ETA: 10:49:31, Rate: 39.9 cps, Current: 32, 33
+[16:55:06] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 8213 chunks (0.52%), ETA: 10:56:38, Rate: 39.5 cps, Current: 38, 33
+[16:55:07] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 8261 chunks (0.53%), ETA: 11:17:03, Rate: 38.3 cps, Current: 43, 35
+[16:55:08] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 8298 chunks (0.53%), ETA: 11:24:06, Rate: 37.9 cps, Current: 43, 38
+[16:55:09] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 8332 chunks (0.53%), ETA: 11:16:12, Rate: 38.4 cps, Current: 43, 42
+[16:55:10] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 8388 chunks (0.54%), ETA: 10:55:13, Rate: 39.6 cps, Current: 46, 46
+[16:55:11] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 8449 chunks (0.54%), ETA: 10:29:27, Rate: 41.2 cps, Current: 37, 53
+[16:55:12] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 8502 chunks (0.54%), ETA: 10:21:25, Rate: 41.7 cps, Current: 35, 58
+[16:55:13] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 8548 chunks (0.55%), ETA: 10:05:25, Rate: 42.8 cps, Current: 41, 47
+[16:55:14] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 8579 chunks (0.55%), ETA: 10:13:52, Rate: 42.3 cps, Current: 43, 61
+[16:55:15] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 8606 chunks (0.55%), ETA: 10:36:20, Rate: 40.8 cps, Current: 46, 54
+[16:55:16] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 8679 chunks (0.55%), ETA: 10:22:58, Rate: 41.6 cps, Current: 49, 50
+[16:55:17] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 8703 chunks (0.56%), ETA: 10:24:04, Rate: 41.6 cps, Current: 47, 52
+[16:55:18] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 8744 chunks (0.56%), ETA: 10:24:30, Rate: 41.5 cps, Current: 47, 59
+[16:55:19] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 8785 chunks (0.56%), ETA: 10:17:28, Rate: 42.0 cps, Current: 54, 56
+[16:55:20] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 8815 chunks (0.56%), ETA: 10:23:20, Rate: 41.6 cps, Current: 57, 61
+[16:55:21] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 8840 chunks (0.56%), ETA: 10:37:40, Rate: 40.7 cps, Current: 59, 59
+[16:55:22] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 8888 chunks (0.57%), ETA: 10:36:19, Rate: 40.8 cps, Current: 55, 51
+[16:55:23] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 8921 chunks (0.57%), ETA: 10:42:36, Rate: 40.4 cps, Current: 55, 48
+[16:55:25] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 8935 chunks (0.57%), ETA: 10:55:17, Rate: 39.6 cps, Current: 62, 46
+[16:55:26] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 8952 chunks (0.57%), ETA: 11:03:57, Rate: 39.1 cps, Current: 59, 43
+[16:55:27] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 8992 chunks (0.57%), ETA: 11:07:33, Rate: 38.8 cps, Current: 53, 46
+[16:55:28] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9050 chunks (0.58%), ETA: 10:56:19, Rate: 39.5 cps, Current: 54, 40
+[16:55:29] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9146 chunks (0.58%), ETA: 10:14:25, Rate: 42.2 cps, Current: 58, 32
+[16:55:30] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9205 chunks (0.59%), ETA: 10:07:02, Rate: 42.7 cps, Current: 66, 34
+[16:55:31] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9238 chunks (0.59%), ETA: 10:22:05, Rate: 41.7 cps, Current: 69, 37
+[16:55:32] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9261 chunks (0.59%), ETA: 10:19:28, Rate: 41.9 cps, Current: 71, 34
+[16:55:33] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9299 chunks (0.59%), ETA: 10:16:31, Rate: 42.1 cps, Current: 71, 38
+[16:55:34] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9338 chunks (0.60%), ETA: 10:42:08, Rate: 40.4 cps, Current: 78, 39
+[16:55:35] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9370 chunks (0.60%), ETA: 10:53:49, Rate: 39.7 cps, Current: 69, 45
+[16:55:37] [Server thread/WARN]: Valentin13145 moved too quickly! -8.025080358301082,-0.5800000131130219,-6.127276839347019
+[16:55:37] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9395 chunks (0.60%), ETA: 11:26:47, Rate: 37.8 cps, Current: 68, 44
+[16:55:38] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9463 chunks (0.60%), ETA: 11:06:53, Rate: 38.9 cps, Current: 66, 49
+[16:55:39] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9500 chunks (0.61%), ETA: 11:19:02, Rate: 38.2 cps, Current: 64, 55
+[16:55:40] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9537 chunks (0.61%), ETA: 11:33:21, Rate: 37.4 cps, Current: 68, 61
+[16:55:41] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9576 chunks (0.61%), ETA: 11:44:31, Rate: 36.8 cps, Current: 71, 57
+[16:55:42] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9606 chunks (0.61%), ETA: 11:54:22, Rate: 36.3 cps, Current: 76, 59
+[16:55:43] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9638 chunks (0.62%), ETA: 11:54:54, Rate: 36.3 cps, Current: 74, 55
+[16:55:44] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9702 chunks (0.62%), ETA: 11:30:33, Rate: 37.5 cps, Current: 80, 50
+[16:55:45] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9730 chunks (0.62%), ETA: 11:57:04, Rate: 36.1 cps, Current: 86, 52
+[16:55:46] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9779 chunks (0.62%), ETA: 11:41:10, Rate: 37.0 cps, Current: 83, 55
+[16:55:48] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9814 chunks (0.63%), ETA: 11:54:41, Rate: 36.3 cps, Current: 67, 63
+[16:55:49] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9845 chunks (0.63%), ETA: 12:04:29, Rate: 35.8 cps, Current: 91, 61
+[16:55:50] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9872 chunks (0.63%), ETA: 12:05:46, Rate: 35.7 cps, Current: 93, 58
+[16:55:51] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9911 chunks (0.63%), ETA: 11:56:45, Rate: 36.2 cps, Current: 89, 52
+[16:55:52] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9951 chunks (0.64%), ETA: 12:01:24, Rate: 35.9 cps, Current: 87, 48
+[16:55:53] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9964 chunks (0.64%), ETA: 12:17:04, Rate: 35.2 cps, Current: 94, 42
+[16:55:54] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 10002 chunks (0.64%), ETA: 12:00:51, Rate: 36.0 cps, Current: 86, 63
+[16:55:54] [Chunky-minecraft:overworld Thread/INFO]: [Chunky] Task stopped for minecraft:overworld.
+[16:55:55] [Worker-Main-3/WARN]: Non-existent template pool reference: fokastudio:end/stronghold/illagers
+[16:55:55] [Worker-Main-3/WARN]: Non-existent template pool reference: fokastudio:end/stronghold/illagers
+[16:55:55] [Worker-Main-3/WARN]: Non-existent template pool reference: stellaris:stronghold/corridors_no_stairs
+[16:55:55] [Worker-Main-3/WARN]: Non-existent template pool reference: stellaris:stronghold/corridors_no_stairs
+[16:55:56] [Worker-Main-3/WARN]: Non-existent template pool reference: fokastudio:end/stronghold/illagers
+[16:55:56] [Worker-Main-3/WARN]: Non-existent template pool reference: stellaris:stronghold/corridors_no_stairs
+[16:55:56] [Worker-Main-3/WARN]: Non-existent template pool reference: fokastudio:end/stronghold/illagers
+[16:55:56] [Worker-Main-3/WARN]: Non-existent template pool reference: stellaris:stronghold/corridors_no_stairs
+[16:55:56] [Worker-Main-3/WARN]: Non-existent template pool reference: stellaris:stronghold/corridors_no_stairs
+[16:55:56] [Worker-Main-3/WARN]: Non-existent template pool reference: stellaris:stronghold/corridors_no_stairs
+[16:55:56] [Worker-Main-3/WARN]: Non-existent template pool reference: stellaris:stronghold/corridors_no_stairs
+[16:55:56] [Worker-Main-3/WARN]: Non-existent template pool reference: stellaris:stronghold/corridors_no_stairs
+[16:55:56] [Worker-Main-3/WARN]: Non-existent template pool reference: stellaris:stronghold/corridors_no_stairs
